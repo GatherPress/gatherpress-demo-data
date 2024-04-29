@@ -1,3 +1,9 @@
+# What
+
+This repo provides the latest version of GatherPress as zip archive, to be used with two different blueprint.json files to run WordPress playground instances for the following purposes:
+
+1. Install and activate GatherPress to be able start creating demo-data.
+2. Install and activate GatherPress and import the created demo-data to showcase the plugin.
 
 # Why
 
