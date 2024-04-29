@@ -1,0 +1,32 @@
+{
+    "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+    "landingPage": "https://playground.wordpress.net/wp-admin/",
+    "preferredVersions": {
+        "php": "8.2",
+        "wp": "6.5"
+    },
+    "phpExtensionBundles": [
+        "kitchen-sink"
+    ],
+    "features": {
+        "networking": true
+    },
+    "steps": [
+      
+ 
+   {
+     "step": "login"
+   },
+   {
+     "step": "installPlugin",
+     "pluginZipFile": {
+       "resource": "url",
+       "url": "https://github.com/GatherPress/gatherpress/releases/download/0.28.0/gatherpress.zip"
+     },
+     "options": {
+       "activate": true
+     }
+  
+       
+    ]
+}
