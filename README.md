@@ -1,3 +1,6 @@
+![gatherpress-demo-data-playground](https://github.com/carstingaxion/gatherpress-demo-data/assets/198883/78d03731-8500-441d-89e0-8d34e067e5db)
+
+
 # What
 
 This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) as zip archive, to be used with different `blueprint.json` files to run WordPress playground instances for the following purposes:
