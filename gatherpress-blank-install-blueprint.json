@@ -1,6 +1,6 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-  "landingPage": "https://playground.wordpress.net/wp-admin/",
+  "landingPage": "https://playground.wordpress.net/wp-admin/post-new.php?post_type=gp_venue",
   "preferredVersions": {
     "php": "8.2",
     "wp": "6.5"
