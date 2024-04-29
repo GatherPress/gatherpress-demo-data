@@ -24,6 +24,19 @@
             "username": "admin",
             "password": "password"
         },
+   {
+     "step": "login"
+   },
+   {
+     "step": "installPlugin",
+     "pluginZipFile": {
+       "resource": "url",
+       "url": "https://raw.githubusercontent.com/{USER}/{REPO}/{BRANCH}/{PLUGINFILENAME}.zip"
+     },
+     "options": {
+       "activate": true
+     }
+   },	    
          {
             "step": "importFile",
             "file": {
