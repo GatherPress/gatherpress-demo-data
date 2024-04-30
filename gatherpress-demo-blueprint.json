@@ -10,7 +10,7 @@
   "features": {
     "networking": true
   },
-  "landingPage": "https://playground.wordpress.net/?page_id=18",
+  "landingPage": "https://playground.wordpress.net/events/",
   "steps": [
      {
       "step": "setSiteOptions",

@@ -1,6 +1,5 @@
 {
     "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-    "landingPage": "https://playground.wordpress.net/wp-admin/",
     "preferredVersions": {
         "php": "8.2",
         "wp": "6.5"
@@ -11,6 +10,7 @@
     "features": {
         "networking": true
     },
+    "landingPage": "https://playground.wordpress.net/wp-admin/post.php?post=18&action=edit",
     "steps": [
       
      {
@@ -18,16 +18,15 @@
       "options": {
         "blogname": "GatherPress",
         "blogdescription": "Showcase the block variation experiments",
+        "users_can_register": 1,
         "permalink_structure": "/%year%/%monthnum%/%postname%/"
-      },
+      }
+    },
         {
             "step": "login",
             "username": "admin",
             "password": "password"
         },
-   {
-     "step": "login"
-   },
    {
      "step": "installPlugin",
      "pluginZipFile": {
@@ -37,31 +36,13 @@
      "options": {
        "activate": true
      }
-   },	    
-         {
-            "step": "importFile",
-            "file": {
-                "resource": "url",
-                "url": "https://raw.githubusercontent.com/wielebenwir/commonsbooking/master/tests/cypress/wordpress-files/content-example.xml"
-            }
-        },
- 		{
-			"step": "runPHP",
-			"code": "<?php require_once 'wordpress/wp-load.php'; update_option( 'highlight-and-share-email-settings', maybe_unserialize( 'a:12:{s:21:\"enable_logged_in_only\";b:0;s:15:\"akismet_enabled\";b:0;s:17:\"recaptcha_enabled\";b:0;s:18:\"recaptcha_site_key\";s:0:\"\";s:20:\"recaptcha_secret_key\";s:0:\"\";s:25:\"recaptcha_score_threshold\";s:3:\"0.5\";s:9:\"from_name\";s:20:\"My WordPress Website\";s:10:\"from_email\";s:19:\"admin@localhost.com\";s:15:\"email_send_type\";s:4:\"form\";s:13:\"email_subject\";s:48:\"Check out this {{share_type}} from {{site_name}}\";s:10:\"email_body\";s:110:\"{{from_name}} ({{from_email}}) wants to share a link with you\r\n\n{{share_text}}\r\n\r\n{{post_title}}\r\n{{post_url}}\";s:17:\"email_modal_title\";s:25:\"Share this {{share_type}}\";}' ) ); ?>"
-		},
-		{
-			"step": "runPHP",
-			"code": "<?php require_once 'wordpress/wp-load.php'; wp_insert_post(array('post_title' => 'Highlight and Share Demo', 'post_status' => 'publish', 'post_content' => '<!-- wp:paragraph --><p>Welcome to the Highlight and Share demo.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>You can highlight any of this text and you will see several social sharing networks.</p><!-- /wp:paragraph --><!-- wp:has/click-to-share {\"uniqueId\":\"has-cts-0\",\"showClickToShare\":-1,\"showIcon\":-1,\"iconSize\":24,\"iconSizeResponsive\":{\"mobile\":30,\"tablet\":25,\"desktop\":30},\"backgroundColor\":\"#8364E8\",\"backgroundColorHover\":\"#6f4ae6\",\"backgroundColorSync\":\"hover\",\"icon\":\"\",\"iconColor\":\"#fbd110\",\"iconColorHover\":\"#fbd110\",\"iconColorSync\":\"sync\",\"textColor\":\"#ffffff\",\"textColorHover\":\"#ffffff\",\"textColorSync\":\"sync\",\"shareTextColor\":\"#fbd110\",\"shareTextColorHover\":\"#fbd110\",\"shareTextColorSync\":\"sync\",\"borderRadius\":-1,\"borderColor\":\"#7b5be6\",\"borderColorHover\":\"#7b5be6\",\"borderColorSync\":\"sync\",\"maximumWidth\":{\"mobile\":{\"width\":\"95\",\"unit\":\"vw\"},\"tablet\":{\"width\":\"95\",\"unit\":\"%\"},\"desktop\":{\"width\":\"650\",\"unit\":\"px\"}},\"showClickToShareText\":{\"mobile\":false,\"tablet\":true,\"desktop\":true},\"showClickToShareIcon\":{\"mobile\":true,\"tablet\":true,\"desktop\":false},\"alignment\":\"none\",\"marginTop\":-1,\"paddingSize\":{\"mobile\":{\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"unit\":null,\"unitSync\":null},\"tablet\":{\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"unit\":null,\"unitSync\":null},\"desktop\":{\"top\":\"30\",\"right\":\"30\",\"bottom\":\"30\",\"left\":\"30\",\"unit\":\"px\",\"unitSync\":true}},\"marginSize\":{\"mobile\":{\"top\":\"0\",\"right\":\"\",\"bottom\":\"0\",\"left\":\"\",\"unit\":null,\"unitSync\":null},\"tablet\":{\"top\":\"5\",\"right\":\"\",\"bottom\":\"5\",\"left\":\"\",\"unit\":null,\"unitSync\":null},\"desktop\":{\"top\":\"20\",\"right\":0,\"bottom\":\"20\",\"left\":0,\"unit\":\"px\",\"unitSync\":false}},\"borderRadiusSize\":{\"mobile\":{\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"unit\":null,\"unitSync\":null},\"tablet\":{\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\",\"unit\":null,\"unitSync\":null},\"desktop\":{\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"unit\":\"px\",\"unitSync\":true}},\"typographyQuote\":{\"mobile\":{\"fontFamily\":\"\",\"fontFamilySlug\":\"\",\"fontSize\":\"\",\"fontSizeUnit\":\"px\",\"fontWeight\":\"\",\"lineHeight\":\"\",\"lineHeightUnit\":\"em\",\"textTransform\":\"\",\"letterSpacing\":\"\",\"letterSpacingUnit\":\"px\",\"fontType\":\"web\",\"fontFallback\":\"\"},\"tablet\":{\"fontFamily\":\"\",\"fontFamilySlug\":\"\",\"fontSize\":\"\",\"fontSizeUnit\":\"px\",\"fontWeight\":\"\",\"lineHeight\":\"\",\"lineHeightUnit\":\"em\",\"textTransform\":\"\",\"letterSpacing\":\"\",\"letterSpacingUnit\":\"px\",\"fontType\":\"web\",\"fontFallback\":\"\"},\"desktop\":{\"fontFamily\":\"Lato\",\"fontFamilySlug\":\"lato\",\"fontSize\":\"31\",\"fontSizeUnit\":\"px\",\"fontWeight\":\"normal\",\"lineHeight\":\"1.3\",\"lineHeightUnit\":\"em\",\"textTransform\":\"none\",\"letterSpacing\":\"0\",\"letterSpacingUnit\":\"px\",\"fontType\":\"google\",\"fontFallback\":\"Helvetica, Arial, sans-serif\"}},\"typographyShareText\":{\"mobile\":{\"fontFamily\":\"\",\"fontFamilySlug\":\"\",\"fontSize\":\"\",\"fontSizeUnit\":\"px\",\"fontWeight\":\"\",\"lineHeight\":\"\",\"lineHeightUnit\":\"em\",\"textTransform\":\"\",\"letterSpacing\":\"\",\"letterSpacingUnit\":\"px\",\"fontType\":\"web\",\"fontFallback\":\"sans-serif\"},\"tablet\":{\"fontFamily\":\"\",\"fontFamilySlug\":\"\",\"fontSize\":\"\",\"fontSizeUnit\":\"px\",\"fontWeight\":\"\",\"lineHeight\":\"\",\"lineHeightUnit\":\"em\",\"textTransform\":\"\",\"letterSpacing\":\"\",\"letterSpacingUnit\":\"px\",\"fontType\":\"web\",\"fontFallback\":\"sans-serif\"},\"desktop\":{\"fontFamily\":\"Lato\",\"fontFamilySlug\":\"lato\",\"fontSize\":\"28\",\"fontSizeUnit\":\"px\",\"fontWeight\":\"400\",\"lineHeight\":\"1.3\",\"lineHeightUnit\":\"em\",\"textTransform\":\"none\",\"letterSpacing\":\"0\",\"letterSpacingUnit\":\"px\",\"fontType\":\"google\",\"fontFallback\":\"Helvetica, Arial, sans-serif\"}}} --><!-- wp:paragraph {\"placeholder\":\"\"} --><p>You can click me to show social networks as well. I am a Click to Share block.</p><!-- /wp:paragraph --><!-- /wp:has/click-to-share --><!-- wp:paragraph --><p>You are also able to inline highlight text. This is <span class=\"has-inline-text has-inline-text\">a quick example of inline highlighting</span>, which you can click on. Do not worry, nothing bad will happen.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you are ready, <a href=\"/wp-admin/options-general.php?page=highlight-and-share\">head to the admin settings</a> so you can see the many ways to configure this plugin.</p><!-- /wp:paragraph -->')); ?>"
-		},
-      {
-            "step": "installPlugin",
-            "pluginZipFile": {
-                "resource": "wordpress.org/plugins",
-                "slug": "material-board"
-            },
-            "options": {
-                "activate": true
-            }
+   },
+   {
+        "step": "importFile",
+        "file": {
+            "resource": "url",
+            "url": "https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/GatherPress-demo-data-2024.xml"
         }
+    }
     ]
 }
