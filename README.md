@@ -1,4 +1,4 @@
-![gatherpress-demo-data-playground](https://github.com/carstingaxion/gatherpress-demo-data/assets/gatherpress-demo-data-playground.png)
+![gatherpress-demo-data-playground](https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/assets/gatherpress-demo-data-playground.png)
 
 
 # What
