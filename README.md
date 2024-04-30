@@ -1,18 +1,20 @@
-![gatherpress-demo-data-playground](https://github.com/carstingaxion/gatherpress-demo-data/assets/198883/78d03731-8500-441d-89e0-8d34e067e5db)
+![gatherpress-demo-data-playground](https://github.com/carstingaxion/gatherpress-demo-data/assets/gatherpress-demo-data-playground.png)
 
 
 # What
 
 This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) as zip archive, to be used with different `blueprint.json` files to run WordPress playground instances for the following purposes:
 
-1. [Install and activate GatherPress to be able start creating demo-data.](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-blank-install-blueprint.json)
-2. [Install and activate GatherPress and use the demo-data to showcase the plugin.](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-demo-blueprint.json)
-3. Install and activate GatherPress and use the demo-data to showcase block-variation experiments.
+1. Install and activate GatherPress to be able [start creating demo-data](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-blank-install-blueprint.json).
+2. Install and activate GatherPress and use the demo-data to [showcase the plugin](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-demo-blueprint.json).
+3. Install and activate GatherPress and use the demo-data to *showcase the plugin to editors*.
+4. Install and activate GatherPress and use the demo-data to *showcase block-variation experiments*.
 
 ## How
 
 - The `...-blueprint.json` files are made using the playground-based [blueprint builder](https://playground.wordpress.net/builder/builder.html#{%22$schema%22:%22https://playground.wordpress.net/blueprint-schema.json%22,%22landingPage%22:%22https://playground.wordpress.net/events%22,%22preferredVersions%22:{%22php%22:%228.2%22,%22wp%22:%226.5%22},%22phpExtensionBundles%22:[%22kitchen-sink%22],%22features%22:{%22networking%22:true},%22steps%22:[{%22step%22:%22setSiteOptions%22,%22options%22:{%22blogname%22:%22GatherPress%22,%22blogdescription%22:%22Powering%20Communities%20with%20WordPress.%22,%22users_can_register%22:1}},{%22step%22:%22login%22,%22username%22:%22admin%22,%22password%22:%22password%22},{%22step%22:%22installPlugin%22,%22pluginZipFile%22:{%22resource%22:%22url%22,%22url%22:%22https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-0.28.0.zip%22},%22options%22:{%22activate%22:true}},{%22step%22:%22importFile%22,%22file%22:{%22resource%22:%22url%22,%22url%22:%22https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/GatherPress-demo-data-2024.xml%22}}]})
 - The exported demo-data is **cleaned up manually** from all default contents, that got added during the default WordPress installation *(inside the WordPress playground)*.
+- **Images can only be referenced by URL**, that's why I added them to this repo and used the `raw.githubusercontent.com`-URLs within WordPress.
 
 # Why
 
