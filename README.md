@@ -5,10 +5,11 @@
 
 This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) as zip archive, to be used with different `blueprint.json` files to run WordPress playground instances for the following purposes:
 
-1. Install and activate GatherPress to be able [start creating demo-data](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-blank-install-blueprint.json).
-2. Install and activate GatherPress and use the demo-data to [showcase the plugin](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-demo-blueprint.json).
-3. Install and activate GatherPress and use the demo-data to *showcase the plugin to editors*.
-4. Install and activate GatherPress and use the demo-data to *showcase block-variation experiments*.
+- Install and activate GatherPress to be able [start creating demo-data](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-blank-install-blueprint.json).
+- Install and activate GatherPress and use the demo-data to *test the main branch of the plugin* during development.
+- Install and activate GatherPress and use the demo-data to [showcase the plugin](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-demo-blueprint.json).
+- Install and activate GatherPress and use the demo-data to *showcase the plugin to editors*.
+- Install and activate GatherPress and use the demo-data to *showcase block-variation experiments*.
 
 ## How
 
