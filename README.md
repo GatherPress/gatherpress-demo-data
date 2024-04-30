@@ -39,4 +39,5 @@ So I created [this repo](https://github.com/carstingaxion/gatherpress-demo-data)
 - [Load Blueprint from a URL](https://wordpress.github.io/wordpress-playground/blueprints-api/using-blueprints/#load-blueprint-from-a-url) - Using Blueprints | WordPress Playground
 - [Blueprint builder](https://playground.wordpress.net/builder/builder.html)
 - [WordPress Playground demos](https://playground.wordpress.net/demos/index.html)
+- [Blueprint examples](https://github.com/WordPress/wordpress-playground/wiki/Blueprint-examples) - WordPress/wordpress-playground Wiki
 - [How to add demo content in WordPress](https://learn.wordpress.org/lesson-plan/how-to-add-demo-content-in-wordpress/) - Learn WordPress
