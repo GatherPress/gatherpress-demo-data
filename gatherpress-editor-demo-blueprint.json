@@ -17,7 +17,8 @@
       "options": {
         "blogname": "GatherPress",
         "blogdescription": "Powering Communities with WordPress.",
-        "users_can_register": 1
+        "users_can_register": 1,
+        "permalink_structure": "/%year%/%monthnum%/%postname%/"
       }
     },
     {

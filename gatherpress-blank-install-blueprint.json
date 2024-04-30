@@ -13,6 +13,13 @@
   },
   "steps": [
     {
+      "step": "setSiteOptions",
+      "options": {
+        "users_can_register": 1,
+        "permalink_structure": "/%year%/%monthnum%/%postname%/"
+      }
+    },
+    {
       "step": "login",
       "username": "admin",
       "password": "password"
