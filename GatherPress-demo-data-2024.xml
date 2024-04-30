@@ -33,7 +33,8 @@
 	<wp:base_site_url>https://playground.wordpress.net/scope:0.8940956463231244</wp:base_site_url>
 	<wp:base_blog_url>https://playground.wordpress.net/scope:0.8940956463231244</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.test]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[editor]]></wp:author_login><wp:author_email><![CDATA[editor@localhost.test]]></wp:author_email><wp:author_display_name><![CDATA[editor]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				<wp:term>
 		<wp:term_id>8</wp:term_id>
@@ -145,7 +146,7 @@
 		<title><![CDATA[New York]]></title>
 		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_venue=new-york</link>
 		<pubDate>Mon, 29 Apr 2024 20:01:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_venue&#038;p=4</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"mapZoomLevel":11} /-->]]></content:encoded>
@@ -177,7 +178,7 @@
 		<title><![CDATA[Halle (Saale)]]></title>
 		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_venue=halle-saale</link>
 		<pubDate>Mon, 29 Apr 2024 20:04:29 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_venue&#038;p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gatherpress/venue /-->]]></content:encoded>
@@ -209,7 +210,7 @@
 		<title><![CDATA[Montreal]]></title>
 		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_venue=montreal</link>
 		<pubDate>Mon, 29 Apr 2024 20:10:28 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_venue&#038;p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gatherpress/venue /-->]]></content:encoded>
@@ -241,7 +242,7 @@
 		<title><![CDATA[Christmas 2024]]></title>
 		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_event=christmas-2024</link>
 		<pubDate>Mon, 29 Apr 2024 20:13:59 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_event&#038;p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gatherpress/event-date /-->
@@ -295,7 +296,7 @@
 		<title><![CDATA[WordCamp Europe]]></title>
 		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_event=wordcamp-europe</link>
 		<pubDate>Mon, 29 Apr 2024 20:19:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_event&#038;p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gatherpress/event-date /-->
@@ -360,7 +361,7 @@
 		<title><![CDATA[Turin]]></title>
 		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_venue=turin</link>
 		<pubDate>Mon, 29 Apr 2024 20:20:44 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_venue&#038;p=16</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:gatherpress/venue /-->]]></content:encoded>
