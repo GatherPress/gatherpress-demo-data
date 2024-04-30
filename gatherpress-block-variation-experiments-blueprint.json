@@ -17,7 +17,8 @@
       "step": "setSiteOptions",
       "options": {
         "blogname": "GatherPress",
-        "blogdescription": "Showcase the block variation experiments"
+        "blogdescription": "Showcase the block variation experiments",
+        "permalink_structure": "/%year%/%monthnum%/%postname%/"
       },
         {
             "step": "login",

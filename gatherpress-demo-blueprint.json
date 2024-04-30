@@ -1,6 +1,5 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-  "landingPage": "https://playground.wordpress.net/events",
   "preferredVersions": {
     "php": "8.2",
     "wp": "6.5"
@@ -11,13 +10,15 @@
   "features": {
     "networking": true
   },
+  "landingPage": "https://playground.wordpress.net/?page_id=18",
   "steps": [
      {
       "step": "setSiteOptions",
       "options": {
         "blogname": "GatherPress",
         "blogdescription": "Powering Communities with WordPress.",
-        "users_can_register": 1
+        "users_can_register": 1,
+        "permalink_structure": "/%year%/%monthnum%/%postname%/"
       }
     },
     {
