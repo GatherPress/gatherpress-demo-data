@@ -239,8 +239,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Christmas 2024]]></title>
-		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_event=christmas-2024</link>
+		<title><![CDATA[Christmas 2025]]></title>
+		<link>https://playground.wordpress.net/scope:0.8940956463231244/?gp_event=christmas-2025</link>
 		<pubDate>Mon, 29 Apr 2024 20:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[editor]]></dc:creator>
 		<guid isPermaLink="false">https://playground.wordpress.net/scope:0.8940956463231244/?post_type=gp_event&#038;p=12</guid>
@@ -290,6 +290,11 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2025-12-24 10:00:00";s:18:"datetime_start_gmt";s:19:"2025-12-24 10:00:00";s:12:"datetime_end";s:19:"2025-12-26 23:00:00";s:16:"datetime_end_gmt";s:19:"2025-12-26 23:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -355,6 +360,11 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-06-13 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-06-13 18:00:00";s:12:"datetime_end";s:19:"2024-06-15 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-06-15 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
