@@ -22,16 +22,18 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 
 # Why
 
-I was not able to run a WordPress playground using any of the existing URLs of zipped plugin versions.
+~~I was not able to run a WordPress playground using any of the existing URLs of zipped plugin versions.~~
 
-While the playground docs suggest to use raw.githubusercontent.com for CORS reasons, I was not able to find a working, *non 404*, URL structure.
+~~While the playground docs suggest to use raw.githubusercontent.com for CORS reasons, I was not able to find a working, *non 404*, URL structure.~~
 
-I tried and failed, with:
+~~I tried and failed, with:~~
 
-- https://raw.githubusercontent.com/GatherPress/gatherpress/archive/refs/tags/0.28.0.zip
-- https://raw.githubusercontent.com/GatherPress/gatherpress/releases/download/0.28.0/gatherpress.zip
+~~ https://raw.githubusercontent.com/GatherPress/gatherpress/archive/refs/tags/0.28.0.zip~~
+~~ https://raw.githubusercontent.com/GatherPress/gatherpress/releases/download/0.28.0/gatherpress.zip~~
 
-So I created [this repo](https://github.com/carstingaxion/gatherpress-demo-data), which houses the zip file of the current version of *GatherPress*, as well as the `blueprint.json` files to create demo-data and to run a demo using that data.
+~~So I created [this repo](https://github.com/carstingaxion/gatherpress-demo-data), which houses the zip file of the current version of *GatherPress*, as well as the `blueprint.json` files to create demo-data and to run a demo using that data.~~
+
+[GitHub Proxy](https://github-proxy.com/) to the rescue! A great service by @stoph.
 
 # Ressources
 
