@@ -34,7 +34,7 @@
       "step": "installPlugin",
       "pluginZipFile": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-0.28.0.zip"
+        "url": "https://github-proxy.com/proxy/?repo=GatherPress/gatherpress&release=0.29.0"
       },
       "options": {
         "activate": true
