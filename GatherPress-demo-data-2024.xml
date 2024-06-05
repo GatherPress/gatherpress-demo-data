@@ -166,7 +166,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[venue_information]]></wp:meta_key>
+		<wp:meta_key><![CDATA[gatherpress_venue_information]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"fullAddress":"New York, United States","website":"https://de.wikipedia.org/wiki/New_York_City"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -198,7 +198,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[venue_information]]></wp:meta_key>
+		<wp:meta_key><![CDATA[gatherpress_venue_information]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"fullAddress":"Marktplatz 1, 06108 Halle (Saale), Saxony-Anhalt, Germany","website":"https://halle.de"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -230,7 +230,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[venue_information]]></wp:meta_key>
+		<wp:meta_key><![CDATA[gatherpress_venue_information]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"fullAddress":"Montréal QC Canada","website":"https://de.wikipedia.org/wiki/Montreal"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -391,7 +391,7 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[venue_information]]></wp:meta_key>
+		<wp:meta_key><![CDATA[gatherpress_venue_information]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"fullAddress":"Turin, Italy","website":"https://en.wikipedia.org/wiki/Turin"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
