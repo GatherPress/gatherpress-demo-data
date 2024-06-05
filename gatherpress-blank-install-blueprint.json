@@ -10,7 +10,7 @@
   "features": {
     "networking": true
   },
-  "landingPage": "https://playground.wordpress.net/wp-admin/post-new.php?post_type=gp_venue",
+  "landingPage": "https://playground.wordpress.net/wp-admin/post-new.php?post_type=gatherpress_venue",
   "steps": [
     {
       "step": "setSiteOptions",
