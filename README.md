@@ -9,7 +9,7 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 - Install and activate GatherPress and use the demo-data to *test the main branch of the plugin* during development. ([#8](https://github.com/carstingaxion/gatherpress-demo-data/issues/8))
 - Install and activate GatherPress and use the demo-data to [showcase the plugin](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-demo-blueprint.json).
 - Install and activate GatherPress and use the demo-data to [showcase the plugin to editors](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-editor-demo-blueprint.json).
-- Install and activate GatherPress and use the demo-data to *showcase block-variation experiments*.
+- Install and activate GatherPress and use the demo-data to *see block-variation experiments* in the [GatherPress `block` Playground](https://github.com/carstingaxion/gatherpress-block-playground).
 
 ## How
 
