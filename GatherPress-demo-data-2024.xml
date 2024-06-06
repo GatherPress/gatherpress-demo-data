@@ -750,7 +750,11 @@
 		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+									<wp:postmeta>
+					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2025-08-26 18:00:00";s:18:"datetime_start_gmt";s:19:"2025-08-26 18:00:00";s:12:"datetime_end";s:19:"2025-08-29 20:00:00";s:16:"datetime_end_gmt";s:19:"2025-08-29 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
+				</wp:postmeta>
+						</item>
 					<item>
 		<title><![CDATA[Oregon Convention Center]]></title>
 		<link>https://gatherpress.test/venue/oregon-convention-center/</link>
@@ -919,7 +923,11 @@
 		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+									<wp:postmeta>
+					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-11-02 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-11-02 18:00:00";s:12:"datetime_end";s:19:"2024-11-03 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-11-03 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
+				</wp:postmeta>
+						</item>
 					<item>
 		<title><![CDATA[WordCamp Granada 2024]]></title>
 		<link>https://gatherpress.test/event/wordcamp-granada-2024/</link>
@@ -986,7 +994,11 @@
 		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+									<wp:postmeta>
+					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-10-26 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-10-26 18:00:00";s:12:"datetime_end";s:19:"2024-10-27 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-10-27 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
+				</wp:postmeta>
+						</item>
 					<item>
 		<title><![CDATA[Palacio de Congresos, Granada]]></title>
 		<link>https://gatherpress.test/venue/palacio-de-congresos-granada/</link>
