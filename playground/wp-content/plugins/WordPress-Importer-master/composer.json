@@ -1,0 +1,49 @@
+{
+	"name"              : "humanmade/wordpress-importer",
+	"description"       : "WordPress importer plugin",
+	"license"           : "GPLv2",
+	"authors"           : [
+		{
+			"name"     : "Contributors",
+			"homepage" : "https://github.com/humanmade/WordPress-Importer/graphs/contributors"
+		}
+	],
+	"type"              : "wordpress-plugin",
+	"minimum-stability" : "dev",
+	"prefer-stable"     : true,
+	"support"           : {
+		"wiki"   : "https://github.com/humanmade/WordPress-Importer/wiki",
+		"source" : "https://github.com/humanmade/WordPress-Importer/releases",
+		"issues" : "https://github.com/humanmade/WordPress-Importer/issues"
+	},
+	"keywords" : [
+		"wordpress",
+		"plugin",
+		"importer"
+	],
+	"require"           : {
+		"php"                 : ">=5.2",
+		"composer/installers" : "~1.0"
+	},
+	"require-dev": {
+		"wp-coding-standards/wpcs": "dev-master",
+		"squizlabs/php_codesniffer": "~2.9",
+		"fig-r/psr2r-sniffer": "~0.4"
+	},
+	"autoload"          : { },
+	"autoload-dev"      : { },
+	"extra"             : {
+		"branch-alias"    : {
+			"dev-dev" : "0.1.x-dev"
+		},
+		"installer-paths" : {
+			"vendor/{$name}" : [
+				"type:wordpress-plugin"
+			]
+		}
+	},
+	"scripts": {
+		"post-install-cmd": "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs",
+		"post-update-cmd" : "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+	}
+}
