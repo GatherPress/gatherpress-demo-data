@@ -26,7 +26,7 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require '/wordpress/wp-load.php'; add_filter( 'import_allow_fetch_attachments', '__return_false' );"
+      "code": "<?php require '/wordpress/wp-load.php'; define( 'UPLOADS', trailingslashit( WP_CONTENT_DIR ) . 'gatherpress-demo-data-main' ); add_filter( 'import_allow_fetch_attachments', '__return_false' );"
     },
     {
       "step": "runPHP",
@@ -66,21 +66,12 @@
       }
     },
     {
-      "step": "rmdir",
-      "path": "/wordpress/wp-content/uploads"
-    },
-    {
       "step": "unzip",
       "zipFile": {
         "resource": "vfs",
         "path": "/wordpress/wp-content/gatherpress-demo-data.zip"
       },
       "extractToPath": "/wordpress/wp-content"
-    },
-    {
-      "step": "mv",
-      "fromPath": "/wordpress/wp-content/gatherpress-demo-data-main",
-      "toPath": "/wordpress/wp-content/uploads"
     },
     {
       "step": "writeFile",
@@ -94,7 +85,7 @@
         "step": "importWxr",
         "file": {
           "resource": "vfs",
-          "path": "/wordpress/wp-content/uploads/GatherPress-demo-data-2024.xml"
+          "path": "/wordpress/wp-content/gatherpress-demo-data-main/GatherPress-demo-data-2024.xml"
         }
     }
   ]
