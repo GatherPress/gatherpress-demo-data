@@ -10,6 +10,7 @@
   "features": {
     "networking": true
   },
+  "landingPage": "https://playground.wordpress.net/wp-admin/edit.php",
   "steps": [
      {
       "step": "setSiteOptions",
