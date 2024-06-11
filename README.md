@@ -37,7 +37,14 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 
 [GitHub Proxy](https://github-proxy.com/) to the rescue! A great service by @stoph.
 
-# Ressources
+
+
+## Inspired by
+
+- [adamziel/playground-docs-workflow: Experimenting with maintaining WordPress docs using WordPress Playground](https://github.com/adamziel/playground-docs-workflow)
+- and [bgrgicak/playground-blog: A built using WordPress Playground](https://github.com/bgrgicak/playground-blog)
+
+## Ressources
 
 - [Introduction to Playground: running WordPress in the browser](https://developer.wordpress.org/news/2024/04/05/introduction-to-playground-running-wordpress-in-the-browser/) – WordPress Developer Blog
 - [Load Blueprint from a URL](https://wordpress.github.io/wordpress-playground/blueprints-api/using-blueprints/#load-blueprint-from-a-url) - Using Blueprints | WordPress Playground
