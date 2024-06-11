@@ -54,7 +54,7 @@
     },
     {
       "step": "writeFile",
-      "path": "/wordpress/gatherpress-demo-data.zip",
+      "path": "/wordpress/wp-content/gatherpress-demo-data.zip",
       "data": {
         "resource": "url",
         "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress-demo-data",
@@ -66,10 +66,14 @@
       }
     },
     {
+      "step": "mkdir",
+      "path": "/wordpress/wp-content/uploads"
+    },
+    {
       "step": "unzip",
       "zipFile": {
         "resource": "vfs",
-        "path": "/wordpress/gatherpress-demo-data.zip"
+        "path": "/wordpress/wp-content/gatherpress-demo-data.zip"
       },
       "extractToPath": "/wordpress/wp-content/uploads"
     },
@@ -84,8 +88,8 @@
     {
         "step": "importWxr",
         "file": {
-          "resource": "vfs",
-          "path": "/wordpress/wp-content/uploads/GatherPress-demo-data-2024.xml"
+          "resource": "url",
+          "url": "https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/GatherPress-demo-data-2024.xml"
         }
     }
   ]
