@@ -66,16 +66,17 @@
       }
     },
     {
-      "step": "mkdir",
-      "path": "/wordpress/wp-content/uploads"
-    },
-    {
       "step": "unzip",
       "zipFile": {
         "resource": "vfs",
         "path": "/wordpress/wp-content/gatherpress-demo-data.zip"
       },
-      "extractToPath": "/wordpress/wp-content/uploads"
+      "extractToPath": "/wordpress/wp-content/gatherpress-demo-data-main"
+    },
+    {
+      "step": "mv",
+      "fromPath": "/wordpress/wp-content/gatherpress-demo-data-main",
+      "toPath": "/wordpress/wp-content/uploads"
     },
     {
       "step": "writeFile",
@@ -88,8 +89,8 @@
     {
         "step": "importWxr",
         "file": {
-          "resource": "url",
-          "url": "https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/GatherPress-demo-data-2024.xml"
+          "resource": "vfs",
+          "path": "/wordpress/wp-content/uploads/GatherPress-demo-data-2024.xml"
         }
     }
   ]
