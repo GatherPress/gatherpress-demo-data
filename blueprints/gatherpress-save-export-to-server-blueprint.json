@@ -1,0 +1,74 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": {
+    "php": "8.2",
+    "wp": "latest"
+  },
+  "phpExtensionBundles": [
+    "kitchen-sink"
+  ],
+  "features": {
+    "networking": true
+  },
+  "landingPage": "https://playground.wordpress.net/wp-admin/edit.php",
+  "steps": [
+     {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "GatherPress",
+        "blogdescription": "Powering Communities with WordPress.",
+        "users_can_register": 1,
+        "permalink_structure": "/%year%/%monthnum%/%postname%/",
+        "wordpress_export_to_server__file": "GatherPress-demo-data-2024.xml",
+        "wordpress_export_to_server__owner_repo_branch": "carstingaxion/gatherpress-demo-data/save-export-to-server"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; $user_id = wp_create_user('editor', 'editorpass', 'editor@localhost.test'); (new WP_User($user_id))->set_role('editor');"
+    },
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "step": "wp-cli",
+      "command": " wp post delete 1 2 3 --force",
+      "progress": {
+        "weight": 10,
+				"caption": "Deleting the WordPress default content."
+			}
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "url",
+        "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress-demo-data&branch=save-export-to-server"
+      },
+      "options": {
+        "activate": false
+      }
+    },
+    {
+      "step": "mv",
+      "fromPath": "/wordpress/wp-content/plugins/gatherpress-demo-data-save-export-to-server",
+      "toPath": "/wordpress/wp-content/uploads"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/wordpress-export-to-server.php",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/carstingaxion/wordpress-export-to-server/main/wordpress-export-to-server.php"
+      }
+    },
+    {
+        "step": "importWxr",
+        "file": {
+            "resource": "url",
+            "url": "https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/GatherPress-demo-data-2024.xml"
+        }
+    }
+  ]
+}
