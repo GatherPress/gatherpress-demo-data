@@ -1,4 +1,4 @@
-![gatherpress-demo-data-playground](https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground.png)
+![gatherpress-demo-data-playground](https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/assets/gatherpress-demo-data-playground.png)
 
 
 # What
@@ -17,7 +17,7 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 
 - The `...-blueprint.json` files are made & validated using the playground-based [blueprint builder][builder]
 
-   ![gatherpress-demo-data-playground-builder](https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground-builder.png)
+   ![gatherpress-demo-data-playground-builder](https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/assets/gatherpress-demo-data-playground-builder.png)
 - **Images can only be referenced by URL**, that's why I added them to this repo and used the `raw.githubusercontent.com`-URLs [within WordPress](https://github.com/carstingaxion/gatherpress-demo-data/issues/4#issuecomment-2083850813).
 - The exported demo-data is **cleaned up ~~manually~~ automatically** from all default contents, that got added during the default WordPress installation *(inside the WordPress playground)*.
 - ~~The exported & cleaned up demo-data [needs to be uploaded](https://github.com/carstingaxion/gatherpress-demo-data/compare) to this repository, maybe as new one or as replacement for an existing demo-data set.~~
@@ -37,14 +37,7 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 
 [GitHub Proxy](https://github-proxy.com/) to the rescue! A great service by @stoph.
 
-
-
-## Inspired by
-
-- [adamziel/playground-docs-workflow: Experimenting with maintaining WordPress docs using WordPress Playground](https://github.com/adamziel/playground-docs-workflow)
-- and [bgrgicak/playground-blog: A built using WordPress Playground](https://github.com/bgrgicak/playground-blog)
-
-## Ressources
+# Ressources
 
 - [Introduction to Playground: running WordPress in the browser](https://developer.wordpress.org/news/2024/04/05/introduction-to-playground-running-wordpress-in-the-browser/) – WordPress Developer Blog
 - [Load Blueprint from a URL](https://wordpress.github.io/wordpress-playground/blueprints-api/using-blueprints/#load-blueprint-from-a-url) - Using Blueprints | WordPress Playground
