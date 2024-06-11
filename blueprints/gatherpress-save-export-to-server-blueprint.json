@@ -51,7 +51,7 @@
       "step": "installPlugin",
       "pluginZipFile": {
         "resource": "url",
-        "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress-demo-data&branch=main"
+        "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress-demo-data"
       },
       "options": {
         "activate": false
