@@ -71,7 +71,7 @@
         "resource": "vfs",
         "path": "/wordpress/wp-content/gatherpress-demo-data.zip"
       },
-      "extractToPath": "/wordpress/wp-content/gatherpress-demo-data-main"
+      "extractToPath": "/wordpress/wp-content"
     },
     {
       "step": "mv",
