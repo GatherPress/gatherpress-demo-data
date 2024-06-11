@@ -53,19 +53,25 @@
       }
     },
     {
-      "step": "installPlugin",
-      "pluginZipFile": {
+      "step": "writeFile",
+      "path": "/wordpress/gatherpress-demo-data.zip",
+      "data": {
         "resource": "url",
-        "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress-demo-data"
+        "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress-demo-data",
+        "caption": "Downloading Demo data repo."
       },
-      "options": {
-        "activate": false
+      "progress": {
+        "weight": 2,
+        "caption": "Applying CI/CD prepared assets."
       }
     },
     {
-      "step": "mv",
-      "fromPath": "/wordpress/wp-content/plugins/gatherpress-demo-data-main",
-      "toPath": "/wordpress/wp-content/uploads"
+      "step": "unzip",
+      "zipFile": {
+        "resource": "vfs",
+        "path": "/wordpress/gatherpress-demo-data.zip"
+      },
+      "extractToPath": "/wordpress/wp-content/uploads"
     },
     {
       "step": "writeFile",
@@ -78,8 +84,8 @@
     {
         "step": "importWxr",
         "file": {
-            "resource": "url",
-            "url": "https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/GatherPress-demo-data-2024.xml"
+          "resource": "vfs",
+          "path": "/wordpress/wp-content/uploads/GatherPress-demo-data-2024.xml"
         }
     }
   ]
