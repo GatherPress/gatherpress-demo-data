@@ -10,7 +10,7 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 - Install and activate GatherPress and use the demo-data to [showcase the plugin](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-demo-blueprint.json).
 - Install and activate GatherPress and use the demo-data to [showcase the plugin to editors](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/gatherpress-editor-demo-blueprint.json).
 - Install and activate GatherPress and use the demo-data to *see block-variation experiments* in the [GatherPress `block` Playground](https://github.com/carstingaxion/gatherpress-block-playground).
-- [Create, read update and delete](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/save-export-to-server/blueprints/gatherpress-save-export-to-server-blueprint.json) the demo-data using Playground and persist it with a PR onto *this repo*.
+- [Create, read update and delete](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json) the demo-data using Playground and persist it with a PR onto *this repo*.
 - [CRUD with prepared settings for GitHub Export][export-to-github] the demo-data using Playground and persist it with a PR onto *this repo*.
 
 ## How
@@ -54,7 +54,7 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 - [How to add demo content in WordPress](https://learn.wordpress.org/lesson-plan/how-to-add-demo-content-in-wordpress/) - Learn WordPress
 
 
-[builder]: https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/save-export-to-server/blueprints/gatherpress-save-export-to-server-blueprint.json
+[builder]: https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json
 
 
-[export-to-github]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/save-export-to-server/blueprints/gatherpress-save-export-to-server-blueprint.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/carstingaxion/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
+[export-to-github]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/carstingaxion/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
