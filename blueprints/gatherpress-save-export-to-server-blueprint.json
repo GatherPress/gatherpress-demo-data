@@ -75,8 +75,8 @@
     },
     {
       "step": "mv",
-      "fromPath": "/wordpress/wp-content/gatherpress-demo-data-main",
-      "toPath": "/wordpress/wp-content/uploads"
+      "fromPath": "/wordpress/wp-content/gatherpress-demo-data-main/",
+      "toPath": "/wordpress/wp-content/uploads/"
     },
     {
       "step": "writeFile",
