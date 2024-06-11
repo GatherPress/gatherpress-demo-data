@@ -66,6 +66,10 @@
       }
     },
     {
+      "step": "rmdir",
+      "path": "/wordpress/wp-content/uploads"
+    },
+    {
       "step": "unzip",
       "zipFile": {
         "resource": "vfs",
