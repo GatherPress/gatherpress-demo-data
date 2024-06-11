@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.4" created="2024-06-11 11:57" -->
+	<!-- generator="WordPress/6.5.4" created="2024-06-11 15:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,12 +27,12 @@
 
 <channel>
 	<title>GatherPress</title>
-	<link>https://gatherpress.test/</link>
+	<link>https://gatherpress.test</link>
 	<description>Powering Communities with WordPress.</description>
-	<pubDate>Tue, 11 Jun 2024 11:57:56 +0000</pubDate>
+	<pubDate>Tue, 11 Jun 2024 15:18:10 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://gatherpress.test/</wp:base_site_url>
+	<wp:base_site_url>https://gatherpress.test</wp:base_site_url>
 	<wp:base_blog_url>https://gatherpress.test</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@localhost.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -44,36 +44,43 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 			<wp:tag>
-		<wp:term_id>10</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:tag_slug><![CDATA[block-patterns]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[block-patterns]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>11</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:tag_slug><![CDATA[blocks]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[blocks]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>12</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:tag_slug><![CDATA[documentation]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[documentation]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_berlin]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Berlin]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gatherpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[GatherPress]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[holiday]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Holiday]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>5</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_new-york]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -87,46 +94,39 @@
 		<wp:term_name><![CDATA[Online event]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>13</wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_oregon-convention-center]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Oregon Convention Center]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>15</wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_palacio-de-congresos-granada]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Palacio de Congresos, Granada]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_turin]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Turin]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>14</wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_university-of-technology-sydney]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[University of Technology, Sydney]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[gatherpress]]></wp:term_slug>
-		<wp:term_parent><![CDATA[wordpress]]></wp:term_parent>
-		<wp:term_name><![CDATA[GatherPress]]></wp:term_name>
 	</wp:term>
 		
 	<generator>https://wordpress.org/?v=6.5.4</generator>
@@ -141,7 +141,7 @@
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
 <div class="wp-block-column" style="flex-basis:65%"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png" alt="" /></figure>
+<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter-1.png" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -157,8 +157,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-29 23:30:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-29 23:30:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-04-29 23:30:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-29 23:30:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-11 15:18:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-11 15:18:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[events]]></wp:post_name>
@@ -171,10 +171,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -215,8 +211,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 14:04:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 14:04:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-05 17:53:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-05 17:53:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 14:04:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 14:04:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[christmas]]></wp:post_name>
@@ -229,34 +225,14 @@
 										<category domain="gatherpress_topic" nicename="holiday"><![CDATA[Holiday]]></category>
 		<category domain="_gatherpress_venue" nicename="_new-york"><![CDATA[New York]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
 					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2025-12-24 10:00:00";s:18:"datetime_start_gmt";s:19:"2025-12-24 10:00:00";s:12:"datetime_end";s:19:"2025-12-26 23:00:00";s:16:"datetime_end_gmt";s:19:"2025-12-26 23:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
 				</wp:postmeta>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+						</item>
 					<item>
 		<title><![CDATA[New York]]></title>
 		<link>https://gatherpress.test/venue/new-york/</link>
@@ -273,8 +249,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 14:04:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 14:04:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-05 19:53:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-05 19:53:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 14:04:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 14:04:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-york]]></wp:post_name>
@@ -289,8 +265,8 @@
 		<wp:meta_value><![CDATA[{"fullAddress":"New York","website":"https://en.wikipedia.org/wiki/New_York_City"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -305,8 +281,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 14:05:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 14:05:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-04 22:31:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-04 22:31:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 14:05:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 14:05:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[berlin]]></wp:post_name>
@@ -321,8 +297,8 @@
 		<wp:meta_value><![CDATA[{"fullAddress":"Berlin","website":"https://github.com/berlindb"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -349,8 +325,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 14:05:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 14:05:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-31 16:20:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-31 16:20:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 14:05:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 14:05:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wceu]]></wp:post_name>
@@ -364,34 +340,18 @@
 		<category domain="_gatherpress_venue" nicename="_turin"><![CDATA[Turin]]></category>
 		<category domain="gatherpress_topic" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
 					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-06-13 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-06-13 18:00:00";s:12:"datetime_end";s:19:"2024-06-15 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-06-15 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
 				</wp:postmeta>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+						</item>
 					<item>
 		<title><![CDATA[Turin]]></title>
 		<link>https://gatherpress.test/venue/turin/</link>
@@ -408,8 +368,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 14:06:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 14:06:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-04 21:17:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-04 21:17:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 14:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 14:06:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[turin]]></wp:post_name>
@@ -424,8 +384,8 @@
 		<wp:meta_value><![CDATA[{"fullAddress":"Turin","website":"https://en.wikipedia.org/wiki/Turin"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -452,8 +412,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-17 13:06:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-17 13:06:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-17 14:32:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-17 14:32:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-17 13:06:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-17 13:06:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[xmas-1990]]></wp:post_name>
@@ -466,34 +426,14 @@
 										<category domain="_gatherpress_venue" nicename="_berlin"><![CDATA[Berlin]]></category>
 		<category domain="gatherpress_topic" nicename="holiday"><![CDATA[Holiday]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
 					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"1990-12-24 18:00:00";s:18:"datetime_start_gmt";s:19:"1990-12-24 18:00:00";s:12:"datetime_end";s:19:"1990-12-26 20:00:00";s:16:"datetime_end_gmt";s:19:"1990-12-26 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
 				</wp:postmeta>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+						</item>
 					<item>
 		<title><![CDATA[Gatherpress huddle #41]]></title>
 		<link>https://gatherpress.test/event/gatherpress-huddle-41/</link>
@@ -556,8 +496,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-17 13:35:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-17 13:35:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-17 14:31:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-17 14:31:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-17 13:35:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-17 13:35:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gatherpress-huddle-41]]></wp:post_name>
@@ -571,26 +511,18 @@
 		<category domain="_gatherpress_venue" nicename="online-event"><![CDATA[Online event]]></category>
 		<category domain="gatherpress_topic" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://gatherpress.org/event/gatherpress-weekly-huddle-41/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+									<wp:postmeta>
+					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:0:"";s:18:"datetime_start_gmt";s:0:"";s:12:"datetime_end";s:0:"";s:16:"datetime_end_gmt";s:0:"";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
+				</wp:postmeta>
+						</item>
 					<item>
 		<title><![CDATA[GatherPress, Organizing WordPress Events with Mike, Mervin and Patricia]]></title>
 		<link>https://gatherpress.test/event/gatherpress-organizing-wordpress-events-with-mike-mervin-and-patricia/</link>
@@ -641,8 +573,8 @@
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-05 22:31:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-05 22:31:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-05 22:32:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-05 22:32:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-05 22:31:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-05 22:31:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gatherpress-organizing-wordpress-events-with-mike-mervin-and-patricia]]></wp:post_name>
@@ -655,34 +587,18 @@
 										<category domain="gatherpress_topic" nicename="gatherpress"><![CDATA[GatherPress]]></category>
 		<category domain="_gatherpress_venue" nicename="online-event"><![CDATA[Online event]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://dothewoo.io/gatherpress-organizing-wordpress-events-with-mike-mervin-and-patricia/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
 					<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-02-14 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-02-14 18:00:00";s:12:"datetime_end";s:19:"2024-02-14 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-02-14 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
 				</wp:postmeta>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+						</item>
 					<item>
 		<title><![CDATA[WordCamp US 2025]]></title>
 		<link>https://gatherpress.test/event/wordcamp-us-2025/</link>
@@ -719,8 +635,8 @@
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-06 00:33:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-06 00:33:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-06 00:36:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-06 00:36:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-06 00:33:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-06 00:33:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordcamp-us-2025]]></wp:post_name>
@@ -732,24 +648,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="_gatherpress_venue" nicename="_oregon-convention-center"><![CDATA[Oregon Convention Center]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
@@ -784,8 +684,8 @@
 		<wp:meta_value><![CDATA[{"fullAddress":"Oregon Convention Center 777 NE Martin Luther King Jr Blvd Portland, Oregon, USA","website":"https://www.oregoncc.org/en"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -820,8 +720,8 @@
 		<wp:meta_value><![CDATA[{"fullAddress":"University of Technology, 702 Harris St, Ultimo, NSW 2007, Sydney (UTS)"}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -905,24 +805,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="_gatherpress_venue" nicename="_university-of-technology-sydney"><![CDATA[University of Technology, Sydney]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
@@ -963,8 +847,8 @@
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-06 00:46:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-06 00:46:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-06 00:48:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-06 00:48:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-06 00:46:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-06 00:46:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordcamp-granada-2024]]></wp:post_name>
@@ -976,24 +860,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="_gatherpress_venue" nicename="_palacio-de-congresos-granada"><![CDATA[Palacio de Congresos, Granada]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_enable_initial_decline]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 									<wp:postmeta>
 					<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
@@ -1027,6 +895,10 @@
 		<wp:meta_key><![CDATA[gatherpress_venue_information]]></wp:meta_key>
 		<wp:meta_value><![CDATA[{"fullAddress":"Palacio de Congresos de Granada Paseo del Violón, S/N 18006 Granada","website":"https://granada.wordcamp.org/2024/en/location/"}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
@@ -1051,8 +923,15 @@
 		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
-						</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"wp_theme";s:4:"slug";s:16:"twentytwentyfour";s:4:"name";s:16:"twentytwentyfour";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[gatherpress-events-list-block-inserter]]></title>
 		<link>https://gatherpress.test/events/gatherpress-events-list-block-inserter/</link>
@@ -1076,14 +955,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1439;s:6:"height";i:629;s:4:"file";s:50:"2024/06/gatherpress-events-list-block-inserter.png";s:8:"filesize";i:25863;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:50:"gatherpress-events-list-block-inserter-300x131.png";s:5:"width";i:300;s:6:"height";i:131;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4104;}s:5:"large";a:5:{s:4:"file";s:51:"gatherpress-events-list-block-inserter-1024x448.png";s:5:"width";i:1024;s:6:"height";i:448;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21509;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"gatherpress-events-list-block-inserter-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2919;}s:12:"medium_large";a:5:{s:4:"file";s:50:"gatherpress-events-list-block-inserter-768x336.png";s:5:"width";i:768;s:6:"height";i:336;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14645;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1439;s:6:"height";i:629;s:4:"file";s:52:"2024/06/gatherpress-events-list-block-inserter-1.png";s:8:"filesize";i:25863;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:52:"gatherpress-events-list-block-inserter-1-300x131.png";s:5:"width";i:300;s:6:"height";i:131;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4104;}s:5:"large";a:5:{s:4:"file";s:53:"gatherpress-events-list-block-inserter-1-1024x448.png";s:5:"width";i:1024;s:6:"height";i:448;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21509;}s:9:"thumbnail";a:5:{s:4:"file";s:52:"gatherpress-events-list-block-inserter-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2919;}s:12:"medium_large";a:5:{s:4:"file";s:52:"gatherpress-events-list-block-inserter-1-768x336.png";s:5:"width";i:768;s:6:"height";i:336;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14645;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1109,14 +992,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/gatherpress-demo-data-playground.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-demo-data-playground-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:44:"2024/06/gatherpress-demo-data-playground.png";s:8:"filesize";i:125803;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:44:"gatherpress-demo-data-playground-300x188.png";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28474;}s:5:"large";a:5:{s:4:"file";s:45:"gatherpress-demo-data-playground-1024x640.png";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:201366;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"gatherpress-demo-data-playground-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10807;}s:12:"medium_large";a:5:{s:4:"file";s:44:"gatherpress-demo-data-playground-768x480.png";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:126790;}s:9:"1536x1536";a:5:{s:4:"file";s:45:"gatherpress-demo-data-playground-1536x960.png";s:5:"width";i:1536;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:370443;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:46:"2024/06/gatherpress-demo-data-playground-1.png";s:8:"filesize";i:125803;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:46:"gatherpress-demo-data-playground-1-300x188.png";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28474;}s:5:"large";a:5:{s:4:"file";s:47:"gatherpress-demo-data-playground-1-1024x640.png";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:201366;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"gatherpress-demo-data-playground-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10807;}s:12:"medium_large";a:5:{s:4:"file";s:46:"gatherpress-demo-data-playground-1-768x480.png";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:126790;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"gatherpress-demo-data-playground-1-1536x960.png";s:5:"width";i:1536;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:370443;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1142,14 +1029,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground-builder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground-builder-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/gatherpress-demo-data-playground-builder.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-demo-data-playground-builder-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:52:"2024/06/gatherpress-demo-data-playground-builder.png";s:8:"filesize";i:120778;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:52:"gatherpress-demo-data-playground-builder-300x188.png";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:25854;}s:5:"large";a:5:{s:4:"file";s:53:"gatherpress-demo-data-playground-builder-1024x640.png";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:194311;}s:9:"thumbnail";a:5:{s:4:"file";s:52:"gatherpress-demo-data-playground-builder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7723;}s:12:"medium_large";a:5:{s:4:"file";s:52:"gatherpress-demo-data-playground-builder-768x480.png";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:120608;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"gatherpress-demo-data-playground-builder-1536x960.png";s:5:"width";i:1536;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:362073;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:54:"2024/06/gatherpress-demo-data-playground-builder-1.png";s:8:"filesize";i:120778;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:54:"gatherpress-demo-data-playground-builder-1-300x188.png";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:25854;}s:5:"large";a:5:{s:4:"file";s:55:"gatherpress-demo-data-playground-builder-1-1024x640.png";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:194311;}s:9:"thumbnail";a:5:{s:4:"file";s:54:"gatherpress-demo-data-playground-builder-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7723;}s:12:"medium_large";a:5:{s:4:"file";s:54:"gatherpress-demo-data-playground-builder-1-768x480.png";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:120608;}s:9:"1536x1536";a:5:{s:4:"file";s:55:"gatherpress-demo-data-playground-builder-1-1536x960.png";s:5:"width";i:1536;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:362073;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
