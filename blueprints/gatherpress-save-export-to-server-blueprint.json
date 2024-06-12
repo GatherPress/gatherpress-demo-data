@@ -89,11 +89,11 @@
       }
     },
     {
-        "step": "importWxr",
-        "file": {
-          "resource": "vfs",
-          "path": "/wordpress/wp-content/gatherpress-demo-data-main/GatherPress-demo-data-2024.xml"
-        }
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "url",
+        "url": "https://github-proxy.com/proxy/?repo=humanmade/WordPress-Importer"
+      }
     }
   ]
 }
