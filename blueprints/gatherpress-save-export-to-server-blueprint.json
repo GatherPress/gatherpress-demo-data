@@ -32,10 +32,6 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require '/wordpress/wp-load.php'; define( 'UPLOADS', trailingslashit( WP_CONTENT_DIR ) . 'gatherpress-demo-data-main' ); add_filter( 'import_allow_fetch_attachments', '__return_false' );"
-    },
-    {
-      "step": "runPHP",
       "code": "<?php require '/wordpress/wp-load.php'; $user_id = wp_create_user('editor', 'editorpass', 'editor@localhost.test'); (new WP_User($user_id))->set_role('editor');"
     },
     {
