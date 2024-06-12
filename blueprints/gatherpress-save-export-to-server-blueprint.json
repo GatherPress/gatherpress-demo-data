@@ -86,13 +86,6 @@
         "resource": "url",
         "url": "https://raw.githubusercontent.com/carstingaxion/wordpress-export-to-server/main/wordpress-export-to-server.php"
       }
-    },
-    {
-        "step": "importWxr",
-        "file": {
-          "resource": "vfs",
-          "path": "/wordpress/wp-content/gatherpress-demo-data-main/GatherPress-demo-data-2024.xml"
-        }
     }
   ]
 }
