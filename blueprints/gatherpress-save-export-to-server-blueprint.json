@@ -25,6 +25,12 @@
       }
     },
     {
+      "step": "defineWpConfigConsts",
+      "consts": {
+          "UPLOADS": "/wordpress/wp-content/gatherpress-demo-data-main"
+      }
+    },
+    {
       "step": "runPHP",
       "code": "<?php require '/wordpress/wp-load.php'; define( 'UPLOADS', trailingslashit( WP_CONTENT_DIR ) . 'gatherpress-demo-data-main' ); add_filter( 'import_allow_fetch_attachments', '__return_false' );"
     },
