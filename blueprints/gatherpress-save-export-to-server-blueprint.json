@@ -27,7 +27,7 @@
     {
       "step": "defineWpConfigConsts",
       "consts": {
-          "UPLOADS": "/wordpress/wp-content/gatherpress-demo-data-main"
+          "UPLOADS": "wordpress/wp-content/gatherpress-demo-data-main"
       }
     },
     {
