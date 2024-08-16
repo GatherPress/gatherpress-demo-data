@@ -27,7 +27,7 @@
     {
       "step": "defineWpConfigConsts",
       "consts": {
-          "UPLOADS": "wp-content/gatherpress-demo-data-main",
+          "UPLOADS": "wp-content/demo-data-main",
           "IMPORT_DEBUG": 1
       }
     },
@@ -55,8 +55,11 @@
     {
       "step": "installPlugin",
       "pluginZipFile": {
-        "resource": "url",
-        "url": "https://github-proxy.com/proxy/?repo=carstingaxion/gatherpress&branch=export-import--plus-block-cherries"
+        "resource": "wordpress.org/plugins",
+        "slug": "gatherpress"
+      },
+      "options": {
+        "activate": true
       }
     },
     {
@@ -97,7 +100,7 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require '/wordpress/wp-load.php';$path = realpath( '/wordpress/wp-content/gatherpress-demo-data-main/GatherPress-demo-data-2024.xml' );$logger = new WP_Importer_Logger_CLI();$logger->min_level = 'info';$options = array( 'fetch_attachments' => false, 'default_author' => 1,);$importer = new WXR_Importer( $options );$importer->set_logger( $logger );$result = $importer->import( $path );"
+      "code": "<?php require '/wordpress/wp-load.php';$path = realpath( '/wordpress/wp-content/demo-data-main/GatherPress-demo-data-2024.xml' );$logger = new WP_Importer_Logger_CLI();$logger->min_level = 'info';$options = array( 'fetch_attachments' => false, 'default_author' => 1,);$importer = new WXR_Importer( $options );$importer->set_logger( $logger );$result = $importer->import( $path );"
     }
   ]
 }
