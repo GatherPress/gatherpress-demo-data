@@ -10,7 +10,7 @@
   "features": {
     "networking": true
   },
-  "landingPage": "https://playground.wordpress.net/wp-admin/edit.php",
+  "landingPage": "/wp-admin/edit.php?post_type=gatherpress_event",
   "steps": [
      {
       "step": "setSiteOptions",
