@@ -7,7 +7,7 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 
 ## How to update the demo-data:
 
-1. [<kbd> <br>Open Playground<br> </kbd>](export-to-github)
+1. [<kbd> <br>Open Playground<br> </kbd>][export-to-github]
 2. Create, edit & save event & venue data
 3. Export the xml to the Playground using the "💾 Save Export to server 🤖" button from the Admin bar.
 4. Create a PR from inside the Playground-menu in the top-right corner
