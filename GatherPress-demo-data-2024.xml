@@ -141,7 +141,7 @@
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
 <div class="wp-block-column" style="flex-basis:65%"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/carstingaxion/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png" alt="" /></figure>
+<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-events-list-block-inserter.png" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -939,9 +939,35 @@
 		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
+						</item>
+					<item>
+		<title><![CDATA[gatherpress-events-list-block-inserter]]></title>
+		<link>https://gatherpress.test/events/gatherpress-events-list-block-inserter/</link>
+		<pubDate>Tue, 11 Jun 2024 11:49:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-events-list-block-inserter.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>173</wp:post_id>
+		<wp:post_date><![CDATA[2024-06-11 11:49:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-06-11 11:49:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-06-11 11:49:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-11 11:49:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[gatherpress-events-list-block-inserter]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>18</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-events-list-block-inserter.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
@@ -953,7 +979,7 @@
 		<link>https://gatherpress.test/2024/06/crud-the-docs-with-playground/</link>
 		<pubDate>Wed, 12 Jun 2024 15:16:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://gatherpress.test/?p=173</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
@@ -985,10 +1011,10 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-demo-data-playground.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
@@ -1000,7 +1026,7 @@
 		<link>https://gatherpress.test/2024/06/wp-global-styles-twentytwentyfour-2/</link>
 		<pubDate>Wed, 12 Jun 2024 15:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://gatherpress.test/2024/06/wp-global-styles-twentytwentyfour-2/</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground-builder.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1018,8 +1044,16 @@
 		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
-						</item>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground-builder.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-demo-data-playground-builder.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:52:"2024/06/gatherpress-demo-data-playground-builder.png";s:8:"filesize";i:120778;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:52:"gatherpress-demo-data-playground-builder-300x188.png";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:25854;}s:5:"large";a:5:{s:4:"file";s:53:"gatherpress-demo-data-playground-builder-1024x640.png";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:194311;}s:9:"thumbnail";a:5:{s:4:"file";s:52:"gatherpress-demo-data-playground-builder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7723;}s:12:"medium_large";a:5:{s:4:"file";s:52:"gatherpress-demo-data-playground-builder-768x480.png";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:120608;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"gatherpress-demo-data-playground-builder-1536x960.png";s:5:"width";i:1536;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:362073;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
