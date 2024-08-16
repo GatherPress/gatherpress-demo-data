@@ -3,39 +3,28 @@
 
 # What
 
-This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) ~~as zip archive~~, to be used with different `blueprint.json` files to run WordPress playground instances for the following purposes:
+This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) with editable event & venue data. The created content is used as demo-data in multiple Playgrounds around the GatherPress project.
 
-- Install and activate GatherPress to be able [start creating demo-data](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-blank-install-blueprint.json).
-- Install and activate GatherPress and use the demo-data to *test the main branch of the plugin* during development. ([#8](https://github.com/GatherPress/demo-data/issues/8))
-- Install and activate GatherPress and use the demo-data to [showcase the plugin](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-demo-blueprint.json).
-- Install and activate GatherPress and use the demo-data to [showcase the plugin to editors](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-editor-demo-blueprint.json).
-- Install and activate GatherPress and use the demo-data to *see block-variation experiments* in the [GatherPress `block` Playground](https://github.com/carstingaxion/gatherpress-block-playground).
-- [Create, read update and delete](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json) the demo-data using Playground and persist it with a PR onto *this repo*.
-- [CRUD with prepared settings for GitHub Export][export-to-github] the demo-data using Playground and persist it with a PR onto *this repo*.
+## How to update the demo-data:
 
-## How
+1. [<kbd> <br>Open Playground<br> </kbd>](export-to-github)
+2. Create, edit & save event & venue data
+3. Export the xml to the Playground using the "💾 Save Export to server 🤖" button from the Admin bar.
+4. Create a PR from inside the Playground-menu in the top-right corner
+5. Back at Github, go on & merge the PR!
+
+
+https://github.com/GatherPress/demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
+
+
+# About
 
 - The `...-blueprint.json` files are made & validated using the playground-based [blueprint builder][builder]
 
    ![gatherpress-demo-data-playground-builder](https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground-builder.png)
 - **Images can only be referenced by URL**, that's why I added them to this repo and used the `raw.githubusercontent.com`-URLs [within WordPress](https://github.com/GatherPress/demo-data/issues/4#issuecomment-2083850813).
 - The exported demo-data is **cleaned up ~~manually~~ automatically** from all default contents, that got added during the default WordPress installation *(inside the WordPress playground)*.
-- ~~The exported & cleaned up demo-data [needs to be uploaded](https://github.com/GatherPress/demo-data/compare) to this repository, maybe as new one or as replacement for an existing demo-data set.~~
-
-# Why
-
-~~I was not able to run a WordPress playground using any of the existing URLs of zipped plugin versions.~~
-
-~~While the playground docs suggest to use raw.githubusercontent.com for CORS reasons, I was not able to find a working, *non 404*, URL structure.~~
-
-~~I tried and failed, with:~~
-
-- ~~https://raw.githubusercontent.com/GatherPress/gatherpress/archive/refs/tags/0.28.0.zip~~
-- ~~https://raw.githubusercontent.com/GatherPress/gatherpress/releases/download/0.28.0/gatherpress.zip~~
-
-~~So I created [this repo](https://github.com/GatherPress/demo-data), which houses the zip file of the current version of *GatherPress*, as well as the `blueprint.json` files to create demo-data and to run a demo using that data.~~
-
-[GitHub Proxy](https://github-proxy.com/) to the rescue! A great service by @stoph.
+- [GitHub Proxy](https://github-proxy.com/) is a great service by @stoph.
 
 
 
@@ -57,4 +46,4 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 [builder]: https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json
 
 
-[export-to-github]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/gatherpress-demo-data-main&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
+[export-to-github]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/demo-data-main&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
