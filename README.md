@@ -13,27 +13,25 @@ This repo provides the latest version of [GatherPress](https://github.com/Gather
 4. Create a PR from inside the Playground-menu in the top-right corner
 5. Back at Github, go on & merge the PR!
 
+See the full workflow in action in this video.
 
 https://github.com/GatherPress/demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
 
 
-# About
+### About
 
-- The `...-blueprint.json` files are made & validated using the playground-based [blueprint builder][builder]
-
-   ![gatherpress-demo-data-playground-builder](https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground-builder.png)
 - **Images can only be referenced by URL**, that's why I added them to this repo and used the `raw.githubusercontent.com`-URLs [within WordPress](https://github.com/GatherPress/demo-data/issues/4#issuecomment-2083850813).
 - The exported demo-data is **cleaned up ~~manually~~ automatically** from all default contents, that got added during the default WordPress installation *(inside the WordPress playground)*.
 - [GitHub Proxy](https://github-proxy.com/) is a great service by @stoph.
 
 
 
-## Inspired by
+### Inspired by
 
 - [adamziel/playground-docs-workflow: Experimenting with maintaining WordPress docs using WordPress Playground](https://github.com/adamziel/playground-docs-workflow)
 - and [bgrgicak/playground-blog: A built using WordPress Playground](https://github.com/bgrgicak/playground-blog)
 
-## Ressources
+### Ressources
 
 - [Introduction to Playground: running WordPress in the browser](https://developer.wordpress.org/news/2024/04/05/introduction-to-playground-running-wordpress-in-the-browser/) – WordPress Developer Blog
 - [Load Blueprint from a URL](https://wordpress.github.io/wordpress-playground/blueprints-api/using-blueprints/#load-blueprint-from-a-url) - Using Blueprints | WordPress Playground
