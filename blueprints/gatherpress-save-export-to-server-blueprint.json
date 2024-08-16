@@ -28,7 +28,8 @@
       "step": "defineWpConfigConsts",
       "consts": {
           "UPLOADS": "wp-content/demo-data-main",
-          "IMPORT_DEBUG": 1
+          "IMPORT_DEBUG": 1,
+          "GATHERPRESS_ALPHA_VERSION": 1
       }
     },
     {
