@@ -5,6 +5,10 @@
 
 This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) with editable event & venue data. The created content is used as demo-data in multiple Playgrounds around the GatherPress project.
 
+> [!NOTE]
+> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][export-to-github], you attend(ed), to our set of demo-data powered by Playground.
+
+
 ## How to update the demo-data:
 
 1. [<kbd> <br>Open Playground<br> </kbd>][export-to-github]
