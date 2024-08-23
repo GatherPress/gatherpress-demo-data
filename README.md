@@ -5,6 +5,21 @@
 
 This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) with editable event & venue data. The created content is used as demo-data in multiple Playgrounds around the GatherPress project.
 
+```mermaid
+
+%%{ init: { 'flowchart': { 'curve': 'natural' } } }%%
+flowchart TB
+    C[(demo data)]
+    C -->D[Playground on w.org]
+    C -.->E[Playground PR preview]
+    C -->F[Playground for e2e tests]
+    C -.->G[Playground for the w.org
+screenshot generator]
+
+```
+
+
+
 > [!NOTE]
 > Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][export-to-github], you attend(ed), to our set of demo-data powered by Playground.
 
