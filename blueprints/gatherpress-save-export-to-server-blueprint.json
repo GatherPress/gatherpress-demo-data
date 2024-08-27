@@ -29,6 +29,7 @@
       "consts": {
           "UPLOADS": "wp-content/demo-data-main",
           "IMPORT_DEBUG": 1,
+          "DISABLE_WP_CRON": true,
           "GATHERPRESS_ALPHA_VERSION": 1
       }
     },
