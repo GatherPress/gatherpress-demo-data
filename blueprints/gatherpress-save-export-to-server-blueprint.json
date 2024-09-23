@@ -20,7 +20,7 @@
         "users_can_register": 1,
         "permalink_structure": "/%year%/%monthnum%/%postname%/",
         "wordpress_export_to_server__file": "GatherPress-demo-data-2024.xml",
-        "wordpress_export_to_server__owner_repo_branch": "GatherPress/demo-data/main",
+        "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
         "wordpress_export_to_server__export_home": "https://gatherpress.test"
       }
     },
@@ -83,7 +83,7 @@
       "path": "/wordpress/wp-content/gatherpress-demo-data.zip",
       "data": {
         "resource": "url",
-        "url": "https://github-proxy.com/proxy/?repo=GatherPress/demo-data",
+        "url": "https://github-proxy.com/proxy/?repo=GatherPress/gatherpress-demo-data",
         "caption": "Downloading Demo data repo."
       },
       "progress": {
