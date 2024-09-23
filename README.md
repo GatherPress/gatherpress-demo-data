@@ -1,4 +1,4 @@
-![gatherpress-demo-data-playground](https://raw.githubusercontent.com/GatherPress/demo-data/main/2024/06/gatherpress-demo-data-playground.png)
+![gatherpress-demo-data-playground](https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-demo-data-playground.png)
 
 
 # What
@@ -34,12 +34,12 @@ screenshot generator]
 
 See the full workflow in action in this video.
 
-https://github.com/GatherPress/demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
+https://github.com/GatherPress/gatherpress-demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
 
 
 ### About
 
-- **Images can only be referenced by URL**, that's why I added them to this repo and used the `raw.githubusercontent.com`-URLs [within WordPress](https://github.com/GatherPress/demo-data/issues/4#issuecomment-2083850813).
+- **Images can only be referenced by URL**, that's why I added them to this repo and used the `raw.githubusercontent.com`-URLs [within WordPress](https://github.com/GatherPress/gatherpress-demo-data/issues/4#issuecomment-2083850813).
 - The exported demo-data is **cleaned up ~~manually~~ automatically** from all default contents, that got added during the default WordPress installation *(inside the WordPress playground)*.
 - [GitHub Proxy](https://github-proxy.com/) is a great service by @stoph.
 
@@ -60,7 +60,7 @@ https://github.com/GatherPress/demo-data/assets/198883/79c19cab-24f0-47e8-9710-8
 - [How to add demo content in WordPress](https://learn.wordpress.org/lesson-plan/how-to-add-demo-content-in-wordpress/) - Learn WordPress
 
 
-[builder]: https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json
+[builder]: https://playground.wordpress.net/builder/builder.html?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json
 
 
-[export-to-github]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/demo-data-main&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
+[export-to-github]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-save-export-to-server-blueprint.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/demo-data-main&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
