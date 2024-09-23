@@ -5,19 +5,25 @@
 
 This repo provides the latest version of [GatherPress](https://github.com/GatherPress/gatherpress/releases) with editable event & venue data. The created content is used as demo-data in multiple Playgrounds around the GatherPress project.
 
+![demo-data usage](https://github.com/user-attachments/assets/8b607093-9af3-452e-809a-42e94d65afac)
+
+
+<details><summary>mermaid diagram</summary>
+
 ```mermaid
 
 %%{ init: { 'flowchart': { 'curve': 'natural' } } }%%
 flowchart TB
-    C[(demo data)]
-    C -->D[Playground on w.org]
-    C -.->E[Playground PR preview]
-    C -->F[Playground for e2e tests]
-    C -.->G[Playground for the w.org
+    C[(gatherpress-demo-data)]
+    C -->D[Gatherpress<br />Playground on w.org]
+    C -->E[Gatherpress<br />Playground PR preview]
+    C -->F[Gatherpress<br />Playground for e2e tests]
+    C -->G[Gatherpress<br />Playground for the w.org
 screenshot generator]
 
 ```
 
+</details> 
 
 
 > [!NOTE]
