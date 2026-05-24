@@ -19,7 +19,7 @@
         "blogdescription": "Powering Communities with WordPress.",
         "users_can_register": 1,
         "permalink_structure": "/%year%/%monthnum%/%postname%/",
-        "wordpress_export_to_server__file": "GatherPress-demo-data-2024.xml",
+        "wordpress_export_to_server__file": "GatherPress-demo-data-0.34.0.xml",
         "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
         "wordpress_export_to_server__export_home": "https://gatherpress.test"
       }
@@ -116,7 +116,7 @@
     },
     {
       "step": "runPHP",
-      "code": "<?php require '/wordpress/wp-load.php';$path = realpath( '/wordpress/wp-content/demo-data-main/GatherPress-demo-data-2024.xml' );$logger = new WP_Importer_Logger_CLI();$logger->min_level = 'info';$options = array( 'fetch_attachments' => false, 'default_author' => 1,);$importer = new WXR_Importer( $options );$importer->set_logger( $logger );$result = $importer->import( $path );"
+      "code": "<?php require '/wordpress/wp-load.php';$path = realpath( '/wordpress/wp-content/demo-data-main/GatherPress-demo-data-0.34.0.xml' );$logger = new WP_Importer_Logger_CLI();$logger->min_level = 'info';$options = array( 'fetch_attachments' => false, 'default_author' => 1,);$importer = new WXR_Importer( $options );$importer->set_logger( $logger );$result = $importer->import( $path );"
     }
   ]
 }
