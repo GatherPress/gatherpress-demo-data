@@ -359,7 +359,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
   <content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
 <div class="wp-block-column" style="flex-basis:65%"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://gatherpress.lndo.site/wp-content/uploads/2024/06/gatherpress-events-list-block-inserter.png" alt="" /></figure>
+<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -2574,7 +2574,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
   <link>https://gatherpress.lndo.site/events/gatherpress-events-list-block-inserter/</link>
   <pubDate>Tue, 11 Jun 2024 11:49:23 +0000</pubDate>
   <dc:creator>admin</dc:creator>
-  <guid isPermaLink="false">https://gatherpress.lndo.site/wp-content/uploads/2024/06/gatherpress-events-list-block-inserter.png</guid>
+  <guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2592,7 +2592,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://gatherpress.lndo.site/wp-content/uploads/2024/06/gatherpress-events-list-block-inserter.png</wp:attachment_url>
+  <wp:attachment_url>https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attached_file</wp:meta_key>
     <wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter.png]]></wp:meta_value>
