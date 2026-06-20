@@ -648,28 +648,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-12-24 10:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-12-26 23:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-12-24 10:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-12-26 23:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"2025-12-24 10:00:00","dateTimeEnd":"2025-12-26 23:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2025-12-24 10:00:00";s:18:"datetime_start_gmt";s:19:"2025-12-24 10:00:00";s:12:"datetime_end";s:19:"2025-12-26 23:00:00";s:16:"datetime_end_gmt";s:19:"2025-12-26 23:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -977,28 +957,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-06-13 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-06-15 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-06-13 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-06-15 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"2024-06-13 18:00:00","dateTimeEnd":"2024-06-15 20:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-06-13 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-06-13 18:00:00";s:12:"datetime_end";s:19:"2024-06-15 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-06-15 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1241,28 +1201,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[1990-12-24 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[1990-12-26 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[1990-12-24 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[1990-12-26 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"1990-12-24 18:00:00","dateTimeEnd":"1990-12-26 20:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"1990-12-24 18:00:00";s:18:"datetime_start_gmt";s:19:"1990-12-24 18:00:00";s:12:"datetime_end";s:19:"1990-12-26 20:00:00";s:16:"datetime_end_gmt";s:19:"1990-12-26 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1476,28 +1416,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"","dateTimeEnd":"","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:0:"";s:18:"datetime_start_gmt";s:0:"";s:12:"datetime_end";s:0:"";s:16:"datetime_end_gmt";s:0:"";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1694,28 +1614,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-02-14 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-02-14 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-02-14 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-02-14 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"2024-02-14 18:00:00","dateTimeEnd":"2024-02-14 20:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-02-14 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-02-14 18:00:00";s:12:"datetime_end";s:19:"2024-02-14 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-02-14 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -1905,28 +1805,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-08-26 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-08-29 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-08-26 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2025-08-29 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"2025-08-26 18:00:00","dateTimeEnd":"2025-08-29 20:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2025-08-26 18:00:00";s:18:"datetime_start_gmt";s:19:"2025-08-26 18:00:00";s:12:"datetime_end";s:19:"2025-08-29 20:00:00";s:16:"datetime_end_gmt";s:19:"2025-08-29 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -2259,28 +2139,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-11-02 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-11-03 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-11-02 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-11-03 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"2024-11-02 18:00:00","dateTimeEnd":"2024-11-03 20:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-11-02 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-11-02 18:00:00";s:12:"datetime_end";s:19:"2024-11-03 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-11-03 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -2468,28 +2328,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
     <wp:meta_value><![CDATA[admin]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-10-26 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-10-27 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_timezone</wp:meta_key>
-    <wp:meta_value><![CDATA[+00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_start_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-10-26 18:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime_end_gmt</wp:meta_key>
-    <wp:meta_value><![CDATA[2024-10-27 20:00:00]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>gatherpress_datetime</wp:meta_key>
-    <wp:meta_value><![CDATA[{"dateTimeStart":"2024-10-26 18:00:00","dateTimeEnd":"2024-10-27 20:00:00","timezone":"+00:00"}]]></wp:meta_value>
+    <wp:meta_key>gatherpress_datetimes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2024-10-26 18:00:00";s:18:"datetime_start_gmt";s:19:"2024-10-26 18:00:00";s:12:"datetime_end";s:19:"2024-10-27 20:00:00";s:16:"datetime_end_gmt";s:19:"2024-10-27 20:00:00";s:8:"timezone";s:6:"+00:00";}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
