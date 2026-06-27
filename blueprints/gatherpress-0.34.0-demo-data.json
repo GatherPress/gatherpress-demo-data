@@ -1,0 +1,145 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": {
+    "php": "8.4",
+    "wp": "latest"
+  },
+  "phpExtensionBundles": [
+    "kitchen-sink"
+  ],
+  "features": {
+    "networking": true
+  },
+  "landingPage": "/wp-admin/edit.php?post_type=gatherpress_event",
+  "steps": [
+     {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "GatherPress",
+        "blogdescription": "Powering Communities with WordPress.",
+        "users_can_register": 1,
+        "permalink_structure": "/%year%/%monthnum%/%postname%/",
+        "wordpress_export_to_server__file": "GatherPress-demo-data-0.34.0.xml",
+        "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
+        "wordpress_export_to_server__export_home": "https://gatherpress.test"
+      }
+    },
+    {
+      "step": "defineWpConfigConsts",
+      "consts": {
+          "UPLOADS": "wp-content/demo-data-main",
+          "DISABLE_WP_CRON": true
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; add_filter( 'import_allow_fetch_attachments', '__return_false' );"
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; $user_id = wp_create_user('editor', 'editorpass', 'editor@localhost.test'); (new WP_User($user_id))->set_role('editor');"
+    },
+    {
+      "step": "updateUserMeta",
+      "meta": {
+          "admin_color": "modern"
+      },
+      "userId": 1
+    },
+    {
+      "step": "updateUserMeta",
+      "meta": {
+          "admin_color": "modern"
+      },
+      "userId": 2
+    },
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "step": "wp-cli",
+      "command": " wp post delete 1 2 3 --force",
+      "progress": {
+        "weight": 10,
+				"caption": "Deleting the WordPress default content."
+			}
+    },
+    {
+        "step": "installPlugin",
+        "pluginData": {
+            "resource": "url",
+            "url": "https://github.com/GatherPress/gatherpress/releases/download/0.34.0-beta.1/gatherpress.0.34.0-beta.1.zip"
+        },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+        "step": "installPlugin",
+        "pluginData": {
+            "resource": "url",
+            "url": "https://github.com/GatherPress/gatherpress-alpha/releases/download/0.34.0-beta.1/gatherpress-alpha.0.34.0-beta.1.zip"
+        },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/gatherpress-demo-data.zip",
+      "data": {
+        "resource": "url",
+        "url": "https://github-proxy.com/proxy/?repo=GatherPress/gatherpress-demo-data",
+        "caption": "Downloading Demo data repo."
+      },
+      "progress": {
+        "weight": 2,
+        "caption": "Applying CI/CD prepared assets."
+      }
+    },
+    {
+      "step": "unzip",
+      "zipFile": {
+        "resource": "vfs",
+        "path": "/wordpress/wp-content/gatherpress-demo-data.zip"
+      },
+      "extractToPath": "/wordpress/wp-content"
+    },
+    {
+        "step": "mv",
+        "fromPath": "/wordpress/wp-content/https-github.com-GatherPress-gatherpress-demo-data-HEAD",
+        "toPath": "/wordpress/wp-content/demo-data-main"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/wordpress-export-to-server.php",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/carstingaxion/wordpress-export-to-server/main/wordpress-export-to-server.php"
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "git:directory",
+        "url": "https://github.com/carstingaxion/gatherpress-export-import",
+        "ref": "HEAD"
+      },
+      "options": {
+        "activate": true
+      },
+      "progress": {
+        "caption": "Installing plugin from GitHub: carstingaxion/gatherpress-export-import"
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-0.34.0.xml"
+      }
+    }
+  ]
+}
