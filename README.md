@@ -1,3 +1,7 @@
+
+> [!NOTE]
+> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][export-34], you attend(ed), to our set of demo-data powered by Playground.
+
 ![gatherpress-demo-data-playground](https://github.com/user-attachments/assets/6d064280-4faa-487d-a691-f8e74e305e4d)
 
 
@@ -24,10 +28,6 @@ screenshot generator]
 ```
 
 </details> 
-
-
-> [!NOTE]
-> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][export-34], you attend(ed), to our set of demo-data powered by Playground.
 
 
 ## How to update the demo-data:
