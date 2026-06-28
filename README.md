@@ -32,15 +32,16 @@ screenshot generator]
 
 ## How to update the demo-data:
 
-1. Select a version to update demo-data for:
-   - [![Update demo-data for GatherPress version 0.34.0][playground-34]][export-34]
 
-2. Create, edit & save event & venue data
-3. Export the xml to the Playground using the "💾 Save Export to server 🤖" button from the Admin bar.
-4. Create a PR from inside the Playground-menu in the top-right corner
-5. Back at Github, go on & merge the PR!
+| # | Info |  |
+| --- | --- | --- |
+| 1 | Select a version,<br>to update demo-data for:<br>[![Update demo-data for GatherPress version 0.34.0][playground-34]][export-34] |  |
+| 2 | Connect your GitHub profile |  |
+| 3 | Create, edit & save event & venue data |  |
+| 4 | Export the xml to the Playground using the<br>**💾 Save Export to server 🤖**<br>button from the Admin bar. |  |
+| 5 | Back at Github, go on & merge the PR! |  |
 
-<details><summary>See the full workflow in action in this video.</summary>
+<details><summary><strong>See the full workflow in action in this video.</strong></summary>
 
 
 https://github.com/GatherPress/gatherpress-demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
@@ -48,7 +49,7 @@ https://github.com/GatherPress/gatherpress-demo-data/assets/198883/79c19cab-24f0
 </details>
 
 
-<details><summary>Preparing demo-data for a new version of GatherPress</summary>
+<details><summary><strong>Preparing demo-data for a new version of GatherPress</strong></summary>
 
 <hr>
 
@@ -115,7 +116,7 @@ Adopt this scheme for *your* next version!
 
 </details>
 
-<details><summary>Credits & Ressources</summary>
+<details><summary><strong>Credits & Ressources</h4></summary>
 
 
 ### About
