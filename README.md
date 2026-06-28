@@ -33,7 +33,7 @@ screenshot generator]
 ## How to update the demo-data:
 
 1. Select a version to update demo-data for:
-   - [![Update demo-data for GatherPress version 0.34.0][playground-badge-34]][export-34]
+   - [![Update demo-data for GatherPress version 0.34.0][playground-34]][export-34]
 
 2. Create, edit & save event & venue data
 3. Export the xml to the Playground using the "💾 Save Export to server 🤖" button from the Admin bar.
@@ -44,6 +44,73 @@ See the full workflow in action in this video.
 
 https://github.com/GatherPress/gatherpress-demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
 
+
+<details><summary>Preparing demo-data for a new version of GatherPress</summary>
+
+<hr>
+
+This guide uses the following version-numbers for explanation:
+
+- existing LATEST STABLE `{0.0.0}`
+- existing IN DEVELOPMENT `{0.1.0}`
+- wanted NEW VERSION `{0.2.0}`
+
+Adopt this scheme for *your* next version!
+
+<hr>
+
+1. Duplicate latest<br>`/GatherPress-demo-data-{0.1.0}.xml`<br>into a new<br>`/GatherPress-demo-data-{0.2.0}.xml`
+2. Duplicate latest<br>`/blueprints/gatherpress-{0.1.0}-demo-data.json`<br>into a new<br>`/blueprints/gatherpress-{0.2.0}-demo-data.json`
+3. Update the version-number-string **6 times** in<br>`/blueprints/gatherpress-{0.2.0}-demo-data.json`
+   - Once around Line 22: 
+        ```json
+        "wordpress_export_to_server__file": "GatherPress-demo-data-{0.1.0}.xml"
+        ```
+   - Twice around Line 108: 
+        ```json
+        "url": "https://github.com/GatherPress/gatherpress/releases/download/{0.1.0}/gatherpress.{0.1.0}.zip"
+        ```
+   - Twice around Line 118: 
+        ```json
+        "url": "https://github.com/GatherPress/gatherpress-alpha/releases/download/{0.1.0}/gatherpress-alpha.{0.1.0}.zip"
+        ```
+   - Once around Line 142: 
+        ```json
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml"
+        ```
+4. Now the hard part, update all Playgrounds & other files, that typicallly use the latest or in development version of the demo-data.
+
+   1. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`.wordpress-org/blueprints/blueprint.json`<br>*This is the Playground for wordpress.org, which uses the latest stable release. Therefore this is updated from `{0.0.0}` to `{0.1.0}`*.<br>Once around Line 54: 
+        ```json
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.0.0}.xml"
+        ```
+   2. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`.wordpress-org/blueprints/blueprint-nightly.json`<br>Once around Line 54: 
+        ```json
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml"
+        ```
+   3. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`test/e2e/RSVP-TESTS-TODO.md`<br>Twice around Line 69 & 189: 
+        ```md
+        <https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml>
+        ```
+   4. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`test/e2e/rsvp-tests/rsvp-flows.spec.js`<br>Once around Line 35: 
+        ```js
+        // Demo data available at: https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml
+        ```
+   5. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`.github/scripts/playground-preview/index.js`<br>Once around Line 242: 
+        ```js
+        url: 'https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml'
+        ```
+   6. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`.github/scripts/wordpress-org-screenshots/blueprint.json`<br>Once around Line 56: 
+        ```json
+         "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml"
+        ```
+   7. [GatherPress/gatherpress-awesome](https://github.com/GatherPress/gatherpress-awesome)<br>`.wordpress-org/blueprints/blueprint.json`<br>Once around Line 63: 
+        ```json
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml"
+        ```
+   8. Look up [GitHub search](https://github.com/search?q=org%3AGatherPress+gatherpress-demo-data%2Fmain%2FGatherPress-demo-data-&type=code) to find all *other* occurences of <br>`gatherpress-demo-data/main/GatherPress-demo-data-`
+
+</details>
 
 <details><summary>Credits & Ressources</summary>
 
