@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0" created="2026-06-27 21:44" -->
+	<!-- generator="WordPress/7.0" created="2026-06-28 05:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GatherPress</title>
 	<link>https://gatherpress.test</link>
 	<description>Powering Communities with WordPress.</description>
-	<pubDate>Sat, 27 Jun 2026 21:44:38 +0000</pubDate>
+	<pubDate>Sun, 28 Jun 2026 05:55:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gatherpress.test</wp:base_site_url>
@@ -105,7 +105,7 @@
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_palacio-de-congresos-granada]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Palacio de Congresos, Granada, SPAIN]]></wp:term_name>
+		<wp:term_name><![CDATA[Palacio de Congresos – Granada]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>12</wp:term_id>
@@ -346,7 +346,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
 <div class="wp-block-column" style="flex-basis:65%"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/2024/06/gatherpress-events-list-block-inserter-1.png" alt="" /></figure>
+<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//2024/06/gatherpress-events-list-block-inserter-1.png" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -728,7 +728,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:135:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:135:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -792,7 +792,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:130:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/berlin-osm-16-600-300.png";s:6:"url_2x";s:133:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/berlin-osm-16-600-300@2x.png";s:4:"hash";s:32:"2f848d542e6e9c34a679970dec1ec784";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:130:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/berlin-osm-16-600-300.png";s:6:"url_2x";s:133:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/berlin-osm-16-600-300@2x.png";s:4:"hash";s:32:"2f848d542e6e9c34a679970dec1ec784";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1069,7 +1069,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/turin-osm-16-600-300.png";s:6:"url_2x";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/turin-osm-16-600-300@2x.png";s:4:"hash";s:32:"b97d52af380319283fc8bd44df209318";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/turin-osm-16-600-300.png";s:6:"url_2x";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/turin-osm-16-600-300@2x.png";s:4:"hash";s:32:"b97d52af380319283fc8bd44df209318";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2013,7 +2013,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:202:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300.png";s:6:"url_2x";s:205:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300@2x.png";s:4:"hash";s:32:"739f7b97ce249bd8fc6052c75f34e5ec";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:202:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300.png";s:6:"url_2x";s:205:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300@2x.png";s:4:"hash";s:32:"739f7b97ce249bd8fc6052c75f34e5ec";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2488,8 +2488,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-06 00:46:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-06 00:46:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-27 21:44:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-27 21:44:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-28 05:54:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-28 05:54:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordcamp-granada-2024]]></wp:post_name>
@@ -2499,7 +2499,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_type><![CDATA[gatherpress_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="_gatherpress_venue" nicename="_palacio-de-congresos-granada"><![CDATA[Palacio de Congresos, Granada, SPAIN]]></category>
+										<category domain="_gatherpress_venue" nicename="_palacio-de-congresos-granada"><![CDATA[Palacio de Congresos – Granada]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
@@ -2534,7 +2534,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 				</item>
 					<item>
-		<title><![CDATA[Palacio de Congresos, Granada, SPAIN]]></title>
+		<title><![CDATA[Palacio de Congresos - Granada]]></title>
 		<link>https://gatherpress.test/venue/palacio-de-congresos-granada/</link>
 		<pubDate>Thu, 06 Jun 2024 00:46:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -2543,32 +2543,26 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<content:encoded><![CDATA[<!-- wp:gatherpress/venue -->
 <!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"location"} /-->
-
 <!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
 <!-- /wp:group -->
-
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-phone","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group gatherpress--has-venue-phone"><!-- wp:gatherpress/icon {"icon":"phone"} /-->
-
 <!-- wp:gatherpress/venue-detail {"placeholder":"Venue phone…","fieldType":"phone"} /--></div>
 <!-- /wp:group -->
-
 <!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group gatherpress--has-venue-website"><!-- wp:gatherpress/icon {"icon":"admin-site-alt3"} /-->
-
 <!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-
 <!-- wp:gatherpress/venue-map /-->
 <!-- /wp:gatherpress/venue -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-06 00:46:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-06 00:46:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-27 21:43:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-27 21:43:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-28 05:54:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-28 05:54:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[palacio-de-congresos-granada]]></wp:post_name>
@@ -2620,7 +2614,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:190:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:193:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:190:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:193:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2653,7 +2647,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<link>https://gatherpress.test/events/gatherpress-events-list-block-inserter/</link>
 		<pubDate>Tue, 11 Jun 2024 11:49:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/2024/06/gatherpress-events-list-block-inserter-1.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//2024/06/gatherpress-events-list-block-inserter-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2671,7 +2665,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/wp-content/uploads/2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:meta_value>
@@ -2736,17 +2730,17 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://gatherpress.test/2026/06/wp-global-styles-twentytwentyfive/</link>
-		<pubDate>Sat, 27 Jun 2026 21:43:21 +0000</pubDate>
+		<pubDate>Sun, 28 Jun 2026 05:54:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://gatherpress.test/2026/06/wp-global-styles-twentytwentyfive/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-27 21:43:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-27 21:43:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-27 21:43:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-27 21:43:21]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-28 05:54:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-28 05:54:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-28 05:54:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-28 05:54:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
