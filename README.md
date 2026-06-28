@@ -35,11 +35,12 @@ screenshot generator]
 
 | # | Info |  |
 | --- | --- | --- |
-| 1 | Select a version,<br>to update demo-data for:<br>[![Update demo-data for GatherPress version 0.34.0][playground-34]][export-34] |  |
-| 2 | Connect your GitHub profile |  |
+| 1 | Select a version, to update demo-data for: | [![Update demo-data for GatherPress version 0.34.0][playground-34]][export-34] |
+| 2 | Connect your GitHub profile | ![](https://github.com/user-attachments/assets/7bced510-5bec-41cc-8d1e-a1cc553855f2) |
 | 3 | Create, edit & save event & venue data |  |
-| 4 | Export the xml to the Playground using the<br>**💾 Save Export to server 🤖**<br>button from the Admin bar. |  |
-| 5 | Back at Github, go on & merge the PR! |  |
+| 4 | Export the xml to the Playground using the<br>**💾 Save Export to server 🤖**<br>button from the Admin bar. | ![](https://github.com/user-attachments/assets/5f540316-b25a-4e60-9237-db5ec5d27c96) |
+| 5 | Use "Export to GitHub" from the ⋮ menu |  |
+| 6 | Back at Github, go on & merge the PR! |  |
 
 <details><summary><strong>See the full workflow in action in this video.</strong></summary>
 
