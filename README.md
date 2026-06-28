@@ -40,9 +40,12 @@ screenshot generator]
 4. Create a PR from inside the Playground-menu in the top-right corner
 5. Back at Github, go on & merge the PR!
 
-See the full workflow in action in this video.
+<details><summary>See the full workflow in action in this video.</summary>
+
 
 https://github.com/GatherPress/gatherpress-demo-data/assets/198883/79c19cab-24f0-47e8-9710-832aed7938ca
+
+</details>
 
 
 <details><summary>Preparing demo-data for a new version of GatherPress</summary>
