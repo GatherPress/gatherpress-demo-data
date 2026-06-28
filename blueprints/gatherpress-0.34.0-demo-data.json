@@ -23,7 +23,7 @@
         "wordpress_export_to_server__path": "/wordpress/wp-content/uploads",
         "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
         "wordpress_export_to_server__export_home": "https://gatherpress.test",
-        "wordpress_export_to_server__export_path": "/"
+        "wordpress_export_to_server__export_path": ""
       }
     },
     {
