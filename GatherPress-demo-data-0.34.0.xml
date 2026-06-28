@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0" created="2026-06-28 05:55" -->
+	<!-- generator="WordPress/7.0" created="2026-06-28 10:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GatherPress</title>
 	<link>https://gatherpress.test</link>
 	<description>Powering Communities with WordPress.</description>
-	<pubDate>Sun, 28 Jun 2026 05:55:01 +0000</pubDate>
+	<pubDate>Sun, 28 Jun 2026 10:59:34 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gatherpress.test</wp:base_site_url>
@@ -105,7 +105,7 @@
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_palacio-de-congresos-granada]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Palacio de Congresos – Granada]]></wp:term_name>
+		<wp:term_name><![CDATA[Palacio de Congresos, Granada]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>12</wp:term_id>
@@ -346,7 +346,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
 <div class="wp-block-column" style="flex-basis:65%"><!-- wp:image -->
-<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//2024/06/gatherpress-events-list-block-inserter-1.png" alt="" /></figure>
+<figure class="wp-block-image"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -460,20 +460,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -537,11 +537,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -564,16 +564,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -728,7 +728,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:135:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:131:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:134:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -792,7 +792,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:130:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/berlin-osm-16-600-300.png";s:6:"url_2x";s:133:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/berlin-osm-16-600-300@2x.png";s:4:"hash";s:32:"2f848d542e6e9c34a679970dec1ec784";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-16-600-300.png";s:6:"url_2x";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-16-600-300@2x.png";s:4:"hash";s:32:"2f848d542e6e9c34a679970dec1ec784";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -809,20 +809,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -886,11 +886,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -913,16 +913,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -1069,7 +1069,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/turin-osm-16-600-300.png";s:6:"url_2x";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/turin-osm-16-600-300@2x.png";s:4:"hash";s:32:"b97d52af380319283fc8bd44df209318";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:128:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-osm-16-600-300.png";s:6:"url_2x";s:131:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-osm-16-600-300@2x.png";s:4:"hash";s:32:"b97d52af380319283fc8bd44df209318";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1086,20 +1086,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -1163,11 +1163,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1190,16 +1190,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -1290,20 +1290,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -1355,11 +1355,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1382,16 +1382,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -1553,20 +1553,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -1618,11 +1618,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1645,16 +1645,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -1763,20 +1763,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -1840,11 +1840,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1867,16 +1867,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -2013,7 +2013,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:202:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300.png";s:6:"url_2x";s:205:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300@2x.png";s:4:"hash";s:32:"739f7b97ce249bd8fc6052c75f34e5ec";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:201:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300.png";s:6:"url_2x";s:204:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/oregon-convention-center-777-ne-martin-luther-king-jr-blvd-portland-oregon-usa-osm-16-600-300@2x.png";s:4:"hash";s:32:"739f7b97ce249bd8fc6052c75f34e5ec";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2088,20 +2088,20 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -2165,11 +2165,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -2192,16 +2192,16 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:honest-vintage-village/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:curious-trendy-school/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -2339,19 +2339,19 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:honest-vintage-village/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:curious-trendy-school/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -2422,11 +2422,11 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:honest-vintage-village/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:curious-trendy-school/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:honest-vintage-village/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:curious-trendy-school/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -2450,15 +2450,15 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:honest-vintage-village/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:curious-trendy-school/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:honest-vintage-village/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:curious-trendy-school/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:honest-vintage-village/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:curious-trendy-school/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2488,8 +2488,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-06 00:46:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-06 00:46:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-28 05:54:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-28 05:54:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-28 10:59:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-28 10:59:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordcamp-granada-2024]]></wp:post_name>
@@ -2499,7 +2499,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_type><![CDATA[gatherpress_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="_gatherpress_venue" nicename="_palacio-de-congresos-granada"><![CDATA[Palacio de Congresos – Granada]]></category>
+										<category domain="_gatherpress_venue" nicename="_palacio-de-congresos-granada"><![CDATA[Palacio de Congresos, Granada]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
@@ -2534,7 +2534,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 				</item>
 					<item>
-		<title><![CDATA[Palacio de Congresos - Granada]]></title>
+		<title><![CDATA[Palacio de Congresos, Granada]]></title>
 		<link>https://gatherpress.test/venue/palacio-de-congresos-granada/</link>
 		<pubDate>Thu, 06 Jun 2024 00:46:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -2561,8 +2561,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-06 00:46:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-06 00:46:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-28 05:54:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-28 05:54:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-28 10:59:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-28 10:59:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[palacio-de-congresos-granada]]></wp:post_name>
@@ -2614,7 +2614,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:190:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:193:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:189:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:192:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2647,7 +2647,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<link>https://gatherpress.test/events/gatherpress-events-list-block-inserter/</link>
 		<pubDate>Tue, 11 Jun 2024 11:49:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//2024/06/gatherpress-events-list-block-inserter-1.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2665,14 +2665,14 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main//2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2024/06/gatherpress-events-list-block-inserter.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter-1.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/06/gatherpress-events-list-block-inserter.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1439;s:6:"height";i:629;s:4:"file";s:52:"2024/06/gatherpress-events-list-block-inserter-1.png";s:8:"filesize";i:25863;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:52:"gatherpress-events-list-block-inserter-1-300x131.png";s:5:"width";i:300;s:6:"height";i:131;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4104;}s:5:"large";a:5:{s:4:"file";s:53:"gatherpress-events-list-block-inserter-1-1024x448.png";s:5:"width";i:1024;s:6:"height";i:448;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21510;}s:9:"thumbnail";a:5:{s:4:"file";s:52:"gatherpress-events-list-block-inserter-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2919;}s:12:"medium_large";a:5:{s:4:"file";s:52:"gatherpress-events-list-block-inserter-1-768x336.png";s:5:"width";i:768;s:6:"height";i:336;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14644;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1439;s:6:"height";i:629;s:4:"file";s:50:"2024/06/gatherpress-events-list-block-inserter.png";s:8:"filesize";i:25863;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:50:"gatherpress-events-list-block-inserter-300x131.png";s:5:"width";i:300;s:6:"height";i:131;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4104;}s:5:"large";a:5:{s:4:"file";s:51:"gatherpress-events-list-block-inserter-1024x448.png";s:5:"width";i:1024;s:6:"height";i:448;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21510;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"gatherpress-events-list-block-inserter-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2919;}s:12:"medium_large";a:5:{s:4:"file";s:50:"gatherpress-events-list-block-inserter-768x336.png";s:5:"width";i:768;s:6:"height";i:336;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14644;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
@@ -2730,17 +2730,17 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://gatherpress.test/2026/06/wp-global-styles-twentytwentyfive/</link>
-		<pubDate>Sun, 28 Jun 2026 05:54:25 +0000</pubDate>
+		<pubDate>Sun, 28 Jun 2026 10:58:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://gatherpress.test/2026/06/wp-global-styles-twentytwentyfive/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-28 05:54:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-28 05:54:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-28 05:54:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-28 05:54:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2026-06-28 10:58:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-28 10:58:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-28 10:58:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-28 10:58:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
