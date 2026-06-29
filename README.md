@@ -1,6 +1,6 @@
 
 > [!NOTE]
-> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][export-0-34-0], you attend(ed), to our set of demo-data powered by Playground.
+> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][playground-0-34-0], you attend(ed), to our set of demo-data powered by Playground.
 
 ![gatherpress-demo-data-playground](https://github.com/user-attachments/assets/6d064280-4faa-487d-a691-f8e74e305e4d)
 
@@ -35,7 +35,7 @@ screenshot generator]
 
 | # | Info |  |
 | --- | --- | --- |
-| 1 | Select a version, to update demo-data for: | [![Update demo-data for GatherPress version 0.34.0][badge-0-34-0]][export-0-34-0] |
+| 1 | Select a version, to update demo-data for: | [![Update demo-data for GatherPress version 0.34.0][badge-0-34-0]][playground-0-34-0] |
 | 2 | Connect your GitHub profile | ![](https://github.com/user-attachments/assets/7bced510-5bec-41cc-8d1e-a1cc553855f2) |
 | 3 | Create, edit & save event & venue data |  |
 | 4 | Export your changes using the<br>**💾 Save Export to server 🤖**<br>button from the *Admin bar*. | ![](https://github.com/user-attachments/assets/5f540316-b25a-4e60-9237-db5ec5d27c96) |
@@ -147,4 +147,4 @@ Adopt this scheme for *your* next version!
 
 [badge-0-34-0]: https://img.shields.io/badge/Update_GatherPress_Demo-0.34.0-blue?logo=wordpress&logoColor=%23fff&labelColor=%233858e9&color=%233858e9
 
-[export-0-34-0]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-0.34.0-demo-data.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
+[playground-0-34-0]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-0.34.0-demo-data.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
