@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0" created="2026-06-29 10:21" -->
+	<!-- generator="WordPress/7.0" created="2026-06-29 12:52" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GatherPress</title>
 	<link>https://gatherpress.test</link>
 	<description>Powering Communities with WordPress.</description>
-	<pubDate>Mon, 29 Jun 2026 10:21:04 +0000</pubDate>
+	<pubDate>Mon, 29 Jun 2026 12:52:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gatherpress.test</wp:base_site_url>
@@ -64,6 +64,13 @@
 		<wp:term_slug><![CDATA[_berlin]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Berlin]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[_fycma-trade-fair-and-congress-center-of-malaga]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[FYCMA – Trade Fair and Congress Center of Málaga]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>6</wp:term_id>
@@ -108,6 +115,13 @@
 		<wp:term_name><![CDATA[Palacio de Congresos, Granada, Spain]]></wp:term_name>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[_phoenix-convention-center]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Phoenix Convention Center]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_turin]]></wp:term_slug>
@@ -132,274 +146,6 @@
 	<generator>https://wordpress.org/?v=7.0</generator>
 
 		<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://gatherpress.test/sample-page/</link>
-		<pubDate>Sun, 24 May 2026 00:10:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://gatherpress.lndo.site/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote">
-<!-- wp:paragraph -->
-<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
-<!-- /wp:paragraph -->
-</blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote">
-<!-- wp:paragraph -->
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
-<!-- /wp:paragraph -->
-</blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://gatherpress.test/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-24 00:10:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-24 00:10:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://gatherpress.test/?page_id=3</link>
-		<pubDate>Sun, 24 May 2026 00:10:08 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://gatherpress.lndo.site/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we are</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: https://gatherpress.test/.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Comments</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Media</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Cookies</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Embedded content from other websites</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Who we share your data with</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">How long we retain your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">What rights you have over your data</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
-<!-- /wp:paragraph -->
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Where your data is sent</h2>
-<!-- /wp:heading -->
-<!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
-<!-- /wp:paragraph -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-24 00:10:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-24 00:10:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Events]]></title>
-		<link>https://gatherpress.test/events/</link>
-		<pubDate>Mon, 29 Apr 2024 23:30:46 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://gatherpress.test/?page_id=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
-<div class="wp-block-column" style="flex-basis:65%"><!-- wp:image {"id":183,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/image-e1782728399517-1024x681.png" alt="" class="wp-image-183"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"bottom","width":"35%"} -->
-<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:35%"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
-<p class="has-large-font-size">Show all your events using the <strong>Events Query</strong> block provided by <em>GatherPress</em></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:query {"queryId":0,"query":{"perPage":5,"pages":0,"offset":0,"postType":"gatherpress_event","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"namespace":"gatherpress-event-query","metadata":{"name":"Upcoming Events"},"className":"gatherpress-event-query"} -->
-<div class="wp-block-query gatherpress-event-query"><!-- wp:post-template {"metadata":{"name":"Events Template"},"style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
-<!-- wp:media-text {"mediaPosition":"right","mediaType":"image","mediaWidth":40,"imageFill":false,"useFeaturedImage":true,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="margin-bottom:var(--wp--preset--spacing--30);grid-template-columns:auto 40%"><div class="wp-block-media-text__content"><!-- wp:gatherpress/event-date {"displayType":"start","startDateFormat":"D, M j, Y, g:i a T","style":{"typography":{"textTransform":"uppercase"}},"fontSize":"medium"} /-->
-
-<!-- wp:post-title {"isLink":true} /-->
-
-<!-- wp:gatherpress/venue -->
-<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"location"} /-->
-
-<!-- wp:post-title {"isLink":true,"fontSize":"medium"} /--></div>
-<!-- /wp:group -->
-<!-- /wp:gatherpress/venue -->
-
-<!-- wp:gatherpress/online-event -->
-<div class="wp-block-gatherpress-online-event"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"video-alt2"} /-->
-
-<!-- wp:gatherpress/online-event-link {"linkText":"\u003cspan class=\u0022gatherpress-tooltip\u0022 data-gatherpress-tooltip=\u0022Link available for attendees only.\u0022\u003eOnline event\u003c/span\u003e","fontSize":"medium"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:gatherpress/online-event --></div><figure class="wp-block-media-text__media"></figure></div>
-<!-- /wp:media-text -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"40%"} -->
-<div class="wp-block-column" style="flex-basis:40%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"grid","minimumColumnWidth":"4rem","columnCount":null}} -->
-<div class="wp-block-group"><!-- wp:gatherpress/rsvp-response {"rsvpLimitEnabled":true,"rsvpLimit":3} -->
-<div class="wp-block-gatherpress-rsvp-response"><!-- wp:group {"className":"gatherpress\u002d\u002drsvp-responses","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
-<div class="wp-block-group gatherpress--rsvp-responses"><!-- wp:gatherpress/rsvp-template -->
-<!-- wp:avatar {"size":48} /-->
-<!-- /wp:gatherpress/rsvp-template --></div>
-<!-- /wp:group --></div>
-<!-- /wp:gatherpress/rsvp-response --></div>
-<!-- /wp:group -->
-
-<!-- wp:gatherpress/rsvp-count /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:gatherpress/rsvp {"layout":{"type":"flex","justifyContent":"right","flexWrap":"wrap"}} -->
-<div class="wp-block-gatherpress-rsvp"></div>
-<!-- /wp:gatherpress/rsvp --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-<!-- /wp:post-template -->
-
-<!-- wp:query-no-results {"className":"gatherpress-query-no-results"} -->
-<!-- wp:paragraph {"placeholder":"Add text or blocks that will display when a query returns no results."} -->
-<p></p>
-<!-- /wp:paragraph -->
-<!-- /wp:query-no-results --></div>
-<!-- /wp:query -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2024-04-29 23:30:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-04-29 23:30:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 10:20:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 10:20:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[events]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Christmas 2025]]></title>
 		<link>https://gatherpress.test/event/christmas/</link>
 		<pubDate>Thu, 16 May 2024 14:04:21 +0000</pubDate>
@@ -413,21 +159,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -499,11 +245,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -526,17 +272,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -567,8 +313,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 14:04:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 14:04:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 10:11:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 10:11:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-16 14:04:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-16 14:04:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[christmas]]></wp:post_name>
@@ -680,7 +426,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:126:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:135:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -750,7 +496,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:2:{s:10:"16x600x300";a:6:{s:3:"url";s:124:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-16-600-300.png";s:6:"url_2x";s:127:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-16-600-300@2x.png";s:4:"hash";s:32:"2f848d542e6e9c34a679970dec1ec784";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}s:9:"5x600x300";a:6:{s:3:"url";s:123:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300.png";s:6:"url_2x";s:126:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300@2x.png";s:4:"hash";s:32:"959376acc3b367a7b090fede6da8b61d";s:4:"zoom";i:5;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:9:"5x600x300";a:6:{s:3:"url";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300.png";s:6:"url_2x";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300@2x.png";s:4:"hash";s:32:"959376acc3b367a7b090fede6da8b61d";s:4:"zoom";i:5;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -767,20 +513,20 @@
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -844,11 +590,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -871,16 +617,16 @@
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -1033,7 +779,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300.png";s:6:"url_2x";s:135:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300@2x.png";s:4:"hash";s:32:"0068baa0d7d65a6de7a0be86174d6fd9";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:138:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300.png";s:6:"url_2x";s:141:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300@2x.png";s:4:"hash";s:32:"0068baa0d7d65a6de7a0be86174d6fd9";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
@@ -1070,21 +816,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1156,11 +902,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1183,17 +929,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1224,8 +970,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-17 13:06:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-17 13:06:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 10:10:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 10:10:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-17 13:06:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-17 13:06:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[xmas-1990]]></wp:post_name>
@@ -1290,21 +1036,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1358,11 +1104,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1385,17 +1131,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1430,8 +1176,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-17 13:35:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-17 13:35:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 10:09:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 10:09:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-05-17 13:35:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-17 13:35:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gatherpress-huddle-41]]></wp:post_name>
@@ -1543,21 +1289,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1611,11 +1357,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1638,17 +1384,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1762,20 +1508,20 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-b510c1fa-78a3-4742-8277-fbade2aaa77b","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -1847,11 +1593,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1874,16 +1620,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-2aa86207-a5e3-475b-86a1-33ceaf3139ef","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2020,7 +1766,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:189:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300.png";s:6:"url_2x";s:192:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300@2x.png";s:4:"hash";s:32:"715ab23b4cd691f12154b0df6180d785";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:195:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300.png";s:6:"url_2x";s:198:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300@2x.png";s:4:"hash";s:32:"715ab23b4cd691f12154b0df6180d785";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
@@ -2128,7 +1874,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:166:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300.png";s:6:"url_2x";s:169:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300@2x.png";s:4:"hash";s:32:"2ceef7dcb94505517e1d934dc8535fbe";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:172:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300.png";s:6:"url_2x";s:175:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300@2x.png";s:4:"hash";s:32:"2ceef7dcb94505517e1d934dc8535fbe";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2151,20 +1897,20 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -2235,11 +1981,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -2262,16 +2008,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2409,20 +2155,20 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1c5cd76b-1232-4ea6-af3c-ad1d5ad999cb","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -2493,11 +2239,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -2520,16 +2266,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-111c6ad4-9412-4068-8ee2-0e1be9cfca7d","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2686,7 +2432,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:184:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:187:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:190:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:193:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2723,52 +2469,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://gatherpress.test/?p=182</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://gatherpress.test/?p=182</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#f3f3f3","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","contentPosition":"top center","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light has-custom-content-position is-position-top-center" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f3f3f3"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"placeholder":"Write title…","style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
-<p class="has-text-align-center has-large-font-size"> </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>182</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-29 10:15:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 10:15:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 10:15:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Event Query block]]></title>
 		<link>https://gatherpress.test/events/image/</link>
 		<pubDate>Mon, 29 Jun 2026 10:16:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/image.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/image-e1782728399517-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 10:16:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-29 10:16:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 10:17:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 10:17:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 10:16:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 10:16:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[image]]></wp:post_name>
@@ -2778,18 +2491,312 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/image-e1782728399517.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/image-e1782728399517-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/06/image-e1782728399517.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2026/06/image-e1782728399517-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1094;s:6:"height";i:728;s:4:"file";s:32:"2026/06/image-e1782728399517.png";s:8:"filesize";i:44649;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:32:"image-e1782728399517-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8371;}s:5:"large";a:5:{s:4:"file";s:33:"image-e1782728399517-1024x681.png";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50024;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"image-e1782728399517-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3676;}s:12:"medium_large";a:5:{s:4:"file";s:32:"image-e1782728399517-768x511.png";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33164;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1094;s:6:"height";i:728;s:4:"file";s:34:"2026/06/image-e1782728399517-1.png";s:8:"filesize";i:44649;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:34:"image-e1782728399517-1-300x200.png";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8371;}s:5:"large";a:5:{s:4:"file";s:35:"image-e1782728399517-1-1024x681.png";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50024;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"image-e1782728399517-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3676;}s:12:"medium_large";a:5:{s:4:"file";s:34:"image-e1782728399517-1-768x511.png";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33164;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_backup_sizes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:9:"full-orig";a:4:{s:5:"width";i:1094;s:6:"height";i:1049;s:8:"filesize";i:60052;s:4:"file";s:9:"image.png";}s:14:"thumbnail-orig";a:5:{s:4:"file";s:17:"image-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4982;}s:11:"medium-orig";a:5:{s:4:"file";s:17:"image-300x288.png";s:5:"width";i:300;s:6:"height";i:288;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12460;}s:17:"medium_large-orig";a:5:{s:4:"file";s:17:"image-768x736.png";s:5:"width";i:768;s:6:"height";i:736;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:48189;}s:10:"large-orig";a:5:{s:4:"file";s:18:"image-1024x982.png";s:5:"width";i:1024;s:6:"height";i:982;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:71786;}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[WordCamp US 2026]]></title>
+		<link>https://gatherpress.test/event/wordcamp-us-2026/</link>
+		<pubDate>Mon, 29 Jun 2026 12:45:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/?post_type=gatherpress_event&#038;p=184</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:post-excerpt /-->
+
+<!-- wp:gatherpress/event-date {"startDateFormat":"F j, Y","endDateFormat":"F j, Y","showTimezone":"no"} /-->
+
+<!-- wp:gatherpress/venue {"patternPicked":true} -->
+<!-- wp:post-title {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} /-->
+
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"location"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-website"><!-- wp:gatherpress/icon {"icon":"admin-site-alt3"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:gatherpress/venue-map /-->
+<!-- /wp:gatherpress/venue -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[<strong>Powered by WordPress, Driven by Community</strong>.
+
+]]></excerpt:encoded>
+		<wp:post_id>184</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 12:45:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-29 12:45:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:45:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:45:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wordcamp-us-2026]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[gatherpress_event]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="_gatherpress_venue" nicename="_phoenix-convention-center"><![CDATA[Phoenix Convention Center]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[187]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"dateTimeStart":"2026-08-17 18:00:00","dateTimeEnd":"2026-08-19 20:00:00","timezone":"America/Phoenix"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_open_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_max_attendance_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_start]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-08-17 18:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_end]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-08-19 20:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_timezone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[America/Phoenix]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_start_gmt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-08-18 01:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_end_gmt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-08-20 03:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2026-08-17 18:00:00";s:18:"datetime_start_gmt";s:19:"2026-08-18 01:00:00";s:12:"datetime_end";s:19:"2026-08-19 20:00:00";s:16:"datetime_end_gmt";s:19:"2026-08-20 03:00:00";s:8:"timezone";s:15:"America/Phoenix";}]]></wp:meta_value>
+		</wp:postmeta>
+				</item>
+					<item>
+		<title><![CDATA[phoenix-convention-center]]></title>
+		<link>https://gatherpress.test/event/wordcamp-us-2026/phoenix-convention-center-2/</link>
+		<pubDate>Mon, 29 Jun 2026 12:45:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/phoenix-convention-center.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>187</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 12:45:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-29 12:45:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:45:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:45:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[phoenix-convention-center-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>184</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/phoenix-convention-center.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/06/phoenix-convention-center.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1400;s:6:"height";i:837;s:4:"file";s:38:"2026/06/phoenix-convention-center.webp";s:8:"filesize";i:210126;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:38:"phoenix-convention-center-300x179.webp";s:5:"width";i:300;s:6:"height";i:179;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:15158;}s:5:"large";a:5:{s:4:"file";s:39:"phoenix-convention-center-1024x612.webp";s:5:"width";i:1024;s:6:"height";i:612;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:127110;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"phoenix-convention-center-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6834;}s:12:"medium_large";a:5:{s:4:"file";s:38:"phoenix-convention-center-768x459.webp";s:5:"width";i:768;s:6:"height";i:459;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:79252;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[WordCamp Europe 2027]]></title>
+		<link>https://gatherpress.test/event/wordcamp-europe-2027/</link>
+		<pubDate>Mon, 29 Jun 2026 12:51:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/?post_type=gatherpress_event&#038;p=190</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"useFeaturedImage":true,"dimRatio":10,"customOverlayColor":"#74848b","isUserOverlayColor":false,"minHeight":100,"minHeightUnit":"vh","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim" style="background-color:#74848b"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"className":"is-style-default","style":{"color":{"background":"#ffffffc2"},"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}},"border":{"radius":{"topLeft":"47px","topRight":"47px","bottomLeft":"47px","bottomRight":"47px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-default has-background" style="border-top-left-radius:47px;border-top-right-radius:47px;border-bottom-left-radius:47px;border-bottom-right-radius:47px;background-color:#ffffffc2;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:gatherpress/event-date {"startDateFormat":"F j, Y","endDateFormat":"F j, Y","showTimezone":"no"} /-->
+
+<!-- wp:gatherpress/venue {"patternPicked":true} -->
+<!-- wp:post-title {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} /-->
+
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"location"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-phone","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-phone"><!-- wp:gatherpress/icon {"icon":"phone"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue phone…","fieldType":"phone"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-website"><!-- wp:gatherpress/icon {"icon":"admin-site-alt3"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:gatherpress/venue-map /-->
+<!-- /wp:gatherpress/venue --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 12:51:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-29 12:51:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:51:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:51:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wordcamp-europe-2027]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[gatherpress_event]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="_gatherpress_venue" nicename="_fycma-trade-fair-and-congress-center-of-malaga"><![CDATA[FYCMA – Trade Fair and Congress Center of Málaga]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[191]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"dateTimeStart":"2027-05-27 18:00:00","dateTimeEnd":"2027-05-29 20:00:00","timezone":"Europe/Madrid"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_open_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_max_attendance_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_start]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2027-05-27 18:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_end]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2027-05-29 20:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_timezone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Europe/Madrid]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_start_gmt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2027-05-27 16:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_end_gmt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2027-05-29 18:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2027-05-27 18:00:00";s:18:"datetime_start_gmt";s:19:"2027-05-27 16:00:00";s:12:"datetime_end";s:19:"2027-05-29 20:00:00";s:16:"datetime_end_gmt";s:19:"2027-05-29 18:00:00";s:8:"timezone";s:13:"Europe/Madrid";}]]></wp:meta_value>
+		</wp:postmeta>
+				</item>
+					<item>
+		<title><![CDATA[Malaga]]></title>
+		<link>https://gatherpress.test/event/wordcamp-europe-2027/depositphotos_9609337_s/</link>
+		<pubDate>Mon, 29 Jun 2026 12:46:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/Depositphotos_9609337_S.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 12:46:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-29 12:46:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:46:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:46:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[depositphotos_9609337_s]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>190</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/Depositphotos_9609337_S.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/06/Depositphotos_9609337_S.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:664;s:4:"file";s:35:"2026/06/Depositphotos_9609337_S.jpg";s:8:"filesize";i:947102;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:35:"Depositphotos_9609337_S-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21739;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"Depositphotos_9609337_S-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8999;}s:12:"medium_large";a:5:{s:4:"file";s:35:"Depositphotos_9609337_S-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117843;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2850,6 +2857,14 @@
 		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
@@ -2867,6 +2882,160 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://gatherpress.test/sample-page/</link>
+		<pubDate>Sun, 24 May 2026 00:10:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.lndo.site/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<!-- wp:paragraph -->
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p>
+<!-- /wp:paragraph -->
+</blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote">
+<!-- wp:paragraph -->
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+<!-- /wp:paragraph -->
+</blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://gatherpress.test/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-24 00:10:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-24 00:10:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://gatherpress.test/?page_id=3</link>
+		<pubDate>Sun, 24 May 2026 00:10:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.lndo.site/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we are</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: https://gatherpress.test/.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Comments</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Media</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Embedded content from other websites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we share your data with</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How long we retain your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What rights you have over your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Where your data is sent</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-24 00:10:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-24 00:10:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-24 00:10:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://gatherpress.test/2026/05/navigation/</link>
@@ -2891,6 +3060,120 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Events]]></title>
+		<link>https://gatherpress.test/events/</link>
+		<pubDate>Mon, 29 Apr 2024 23:30:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"65%"} -->
+<div class="wp-block-column" style="flex-basis:65%"><!-- wp:image {"id":183,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/06/image-e1782728399517-1-1024x681.png" alt="" class="wp-image-183"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom","width":"35%"} -->
+<div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:35%"><!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
+<p class="has-large-font-size">Show all your events using the <strong>Events Query</strong> block provided by <em>GatherPress</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:query {"queryId":0,"query":{"perPage":5,"pages":0,"offset":0,"postType":"gatherpress_event","order":"asc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"namespace":"gatherpress-event-query","metadata":{"name":"Upcoming Events"},"className":"gatherpress-event-query"} -->
+<div class="wp-block-query gatherpress-event-query"><!-- wp:post-template {"metadata":{"name":"Events Template"},"style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
+<!-- wp:media-text {"mediaPosition":"right","mediaType":"image","mediaWidth":40,"imageFill":false,"useFeaturedImage":true,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="margin-bottom:var(--wp--preset--spacing--30);grid-template-columns:auto 40%"><div class="wp-block-media-text__content"><!-- wp:gatherpress/event-date {"displayType":"start","startDateFormat":"D, M j, Y, g:i a T","style":{"typography":{"textTransform":"uppercase"}},"fontSize":"medium"} /-->
+
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:gatherpress/venue -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"location"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"medium"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:gatherpress/venue -->
+
+<!-- wp:gatherpress/online-event -->
+<div class="wp-block-gatherpress-online-event"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"video-alt2"} /-->
+
+<!-- wp:gatherpress/online-event-link {"linkText":"\u003cspan class=\u0022gatherpress-tooltip\u0022 data-gatherpress-tooltip=\u0022Link available for attendees only.\u0022\u003eOnline event\u003c/span\u003e","fontSize":"medium"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:gatherpress/online-event --></div><figure class="wp-block-media-text__media"></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"grid","minimumColumnWidth":"4rem","columnCount":null}} -->
+<div class="wp-block-group"><!-- wp:gatherpress/rsvp-response {"rsvpLimitEnabled":true,"rsvpLimit":3} -->
+<div class="wp-block-gatherpress-rsvp-response"><!-- wp:group {"className":"gatherpress\u002d\u002drsvp-responses","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<div class="wp-block-group gatherpress--rsvp-responses"><!-- wp:gatherpress/rsvp-template -->
+<!-- wp:avatar {"size":48} /-->
+<!-- /wp:gatherpress/rsvp-template --></div>
+<!-- /wp:group --></div>
+<!-- /wp:gatherpress/rsvp-response --></div>
+<!-- /wp:group -->
+
+<!-- wp:gatherpress/rsvp-count /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:gatherpress/rsvp {"layout":{"type":"flex","justifyContent":"right","flexWrap":"wrap"}} -->
+<div class="wp-block-gatherpress-rsvp"></div>
+<!-- /wp:gatherpress/rsvp --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results {"className":"gatherpress-query-no-results"} -->
+<!-- wp:paragraph {"placeholder":"Add text or blocks that will display when a query returns no results."} -->
+<p></p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2024-04-29 23:30:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-04-29 23:30:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:52:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:52:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[events]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://gatherpress.test/2024/06/wp-global-styles-twentytwentyfour/</link>
@@ -2965,6 +3248,167 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
 						</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://gatherpress.test/?p=182</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/?p=182</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"customOverlayColor":"#f3f3f3","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","contentPosition":"top center","isDark":false,"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light has-custom-content-position is-position-top-center" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#f3f3f3"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"placeholder":"Write title…","style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>182</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 10:15:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 10:15:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Phoenix Convention Center]]></title>
+		<link>https://gatherpress.test/venue/phoenix-convention-center/</link>
+		<pubDate>Mon, 29 Jun 2026 12:44:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/venue/phoenix-convention-center/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"patternPicked":true} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>185</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 12:44:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-29 12:44:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:45:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:45:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[phoenix-convention-center]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[gatherpress_venue]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1202 North 3rd Street, Phoenix, Arizona, 85004]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_latitude]]></wp:meta_key>
+		<wp:meta_value><![CDATA[33.4617051]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_longitude]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-112.0699527]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:167:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/1202-north-3rd-street-phoenix-arizona-85004-osm-16-600-300.png";s:6:"url_2x";s:170:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/1202-north-3rd-street-phoenix-arizona-85004-osm-16-600-300@2x.png";s:4:"hash";s:32:"854dac4249bce08a3d0a06ddea485388";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://us.wordcamp.org/2026/about/venue/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_show]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_zoom]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_height]]></wp:meta_key>
+		<wp:meta_value><![CDATA[300]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[FYCMA – Trade Fair and Congress Center of Málaga]]></title>
+		<link>https://gatherpress.test/venue/fycma-trade-fair-and-congress-center-of-malaga/</link>
+		<pubDate>Mon, 29 Jun 2026 12:48:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/venue/fycma-trade-fair-and-congress-center-of-malaga/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"patternPicked":true} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>193</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-29 12:48:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-29 12:48:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:51:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:51:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fycma-trade-fair-and-congress-center-of-malaga]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[gatherpress_venue]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[201 Avenida José Ortega y Gasset, Málaga, Andalusia, 29006]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_latitude]]></wp:meta_key>
+		<wp:meta_value><![CDATA[36.7064706]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_longitude]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-4.459368]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:179:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/201-avenida-jose-ortega-y-gasset-malaga-andalusia-29006-osm-16-600-300.png";s:6:"url_2x";s:182:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/201-avenida-jose-ortega-y-gasset-malaga-andalusia-29006-osm-16-600-300@2x.png";s:4:"hash";s:32:"431b507eba193bd88f0111a092b753a3";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+34 952 045500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.fycma.com/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_show]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_zoom]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_height]]></wp:meta_key>
+		<wp:meta_value><![CDATA[300]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
