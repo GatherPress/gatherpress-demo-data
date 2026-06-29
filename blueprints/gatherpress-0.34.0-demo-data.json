@@ -94,6 +94,10 @@
         "path": "/wordpress/wp-content/uploads/2024"
     },
     {
+        "step": "rmdir",
+        "path": "/wordpress/wp-content/uploads/2026"
+    },
+    {
       "step": "writeFile",
       "path": "/wordpress/wp-content/mu-plugins/wordpress-export-to-server.php",
       "data": {
