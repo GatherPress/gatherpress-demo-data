@@ -1,6 +1,6 @@
 
 > [!NOTE]
-> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp][playground-0-34-0], you attend(ed), to our set of demo-data powered by Playground.
+> Help shaping GatherPress by [adding your least recent & your next upcoming WordCamp](#how-to-update-gatherpress-demo-data), you attend(ed), to our set of demo-data powered by Playground.
 
 ![gatherpress-demo-data-playground](https://github.com/user-attachments/assets/6d064280-4faa-487d-a691-f8e74e305e4d)
 
@@ -35,7 +35,7 @@ screenshot generator]
 
 | # | Info |  |
 | --- | --- | --- |
-| 1 | Select a version, to update demo-data for: | [![Update demo-data for GatherPress version 0.34.0][badge-0-34-0]][playground-0-34-0] |
+| 1 | Select a version, to update demo-data for: | [![Update demo-data for GatherPress version 0.34.0][badge-0.34.0]][playground-0.34.0] |
 | 2 | Connect your GitHub profile | ![](https://github.com/user-attachments/assets/7bced510-5bec-41cc-8d1e-a1cc553855f2) |
 | 3 | Create, edit & save event & venue data | *Up to you. Why not add the next local WordPress meeting, you'll attend. Or your next WordCamp?!* |
 | 4 | Export your changes using the<br>**💾 Save Export to server 🤖**<br>button from the *Admin bar*. | ![](https://github.com/user-attachments/assets/5f540316-b25a-4e60-9237-db5ec5d27c96) |
@@ -60,7 +60,7 @@ This guide uses the following version-numbers for explanation:
 - existing IN DEVELOPMENT `{0.1.0}`
 - wanted NEW VERSION `{0.2.0}`
 
-Adopt this scheme for *your* next version!
+Adopt this scheme for *your* next version and DO NOT use the {curly braces} in your updates!
 
 <hr>
 
@@ -83,7 +83,18 @@ Adopt this scheme for *your* next version!
         ```json
         "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-{0.1.0}.xml"
         ```
-4. Now the hard part, update all Playgrounds & other files, that typicallly use the latest or in development version of the demo-data.
+4. Update the prepared Link (to properly open & re-export) inside<br>`/README.md`
+   - Duplicate markdown-shortlinks for the badge & playground, at the very end of the file
+        ```md
+        [badge-{0.1.0}]: https://img.shields.io/badge/Update_GatherPress_Demo-{0.1.0}-blue?logo=wordpress&logoColor=%23fff&labelColor=%233858e9&color=%233858e9
+
+        [playground-{0.1.0}]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-{0.1.0}-demo-data.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
+        ```
+   - Add a new linked badge to the first step of "Updating the demo-data"<br>around line 38:
+        ```md
+        [![Update demo-data for GatherPress version {0.1.0}][badge-{0.1.0}]][playground-{0.1.0}]
+        ```
+5. Update all Playgrounds & other files, that typicallly use the latest or in development versions of the demo-data.
 
    1. [GatherPress/gatherpress](https://github.com/GatherPress/gatherpress/)<br>`.wordpress-org/blueprints/blueprint.json`<br>*This is the Playground for wordpress.org, which uses the latest stable release. Therefore this is updated from `{0.0.0}` to `{0.1.0}`*.<br>Once around Line 54: 
         ```json
@@ -145,6 +156,6 @@ Adopt this scheme for *your* next version!
 
 </details> 
 
-[badge-0-34-0]: https://img.shields.io/badge/Update_GatherPress_Demo-0.34.0-blue?logo=wordpress&logoColor=%23fff&labelColor=%233858e9&color=%233858e9
+[badge-0.34.0]: https://img.shields.io/badge/Update_GatherPress_Demo-0.34.0-blue?logo=wordpress&logoColor=%23fff&labelColor=%233858e9&color=%233858e9
 
-[playground-0-34-0]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-0.34.0-demo-data.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
+[playground-0.34.0]: https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/blueprints/gatherpress-0.34.0-demo-data.json&gh-ensure-auth=yes&ghexport-repo-url=https://github.com/GatherPress/gatherpress-demo-data&ghexport-pr-action=create&ghexport-playground-root=/wordpress/wp-content/uploads&ghexport-repo-root=/&ghexport-path=.&ghexport-content-type=custom-paths&ghexport-commit-message=Changes%20from%20Playground&ghexport-allow-include-zip=no
