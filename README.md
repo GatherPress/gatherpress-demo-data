@@ -37,10 +37,10 @@ screenshot generator]
 | --- | --- | --- |
 | 1 | Select a version, to update demo-data for: | [![Update demo-data for GatherPress version 0.34.0][badge-0-34-0]][playground-0-34-0] |
 | 2 | Connect your GitHub profile | ![](https://github.com/user-attachments/assets/7bced510-5bec-41cc-8d1e-a1cc553855f2) |
-| 3 | Create, edit & save event & venue data |  |
+| 3 | Create, edit & save event & venue data | *Up to you. Why not add the next local WordPress meeting, you'll attend. Or your next WordCamp?!* |
 | 4 | Export your changes using the<br>**💾 Save Export to server 🤖**<br>button from the *Admin bar*. | ![](https://github.com/user-attachments/assets/5f540316-b25a-4e60-9237-db5ec5d27c96) |
-| 5 | Use "Export to GitHub" from the ⋮ menu |  |
-| 6 | Back at Github, go on & merge the PR! |  |
+| 5 | Use "Export to GitHub" from the ⋮ menu | ![](https://github.com/user-attachments/assets/6b8f9db4-e57a-47d9-90bb-d0907365b2b1) |
+| 6 | That's it. ***Thanks!*** | ![](https://github.com/user-attachments/assets/3487b154-6b56-4fc1-b2c3-aad3d2f27408) |
 
 <details><summary><strong>See the full workflow in action in this video.</strong></summary>
 
