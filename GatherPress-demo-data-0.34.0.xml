@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0" created="2026-06-29 12:52" -->
+	<!-- generator="WordPress/7.0" created="2026-06-29 13:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>GatherPress</title>
 	<link>https://gatherpress.test</link>
 	<description>Powering Communities with WordPress.</description>
-	<pubDate>Mon, 29 Jun 2026 12:52:24 +0000</pubDate>
+	<pubDate>Mon, 29 Jun 2026 13:05:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://gatherpress.test</wp:base_site_url>
@@ -66,77 +66,77 @@
 		<wp:term_name><![CDATA[Berlin]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>18</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_fycma-trade-fair-and-congress-center-of-malaga]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[FYCMA – Trade Fair and Congress Center of Málaga]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[gatherpress]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[GatherPress]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>7</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[holiday]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Holiday]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_new-york]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[New York]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[online-event]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Online event]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>10</wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_oregon-convention-center]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Oregon Convention Center]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>11</wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_palacio-de-congresos-granada]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Palacio de Congresos, Granada, Spain]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>17</wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_phoenix-convention-center]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Phoenix Convention Center]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>12</wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_turin]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Turin]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>13</wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[_university-of-technology-sydney]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[University of Technology, Sydney]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>14</wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[gatherpress_topic]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -159,21 +159,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -245,11 +245,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -272,17 +272,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -426,7 +426,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:135:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:133:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300.png";s:6:"url_2x";s:136:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/new-york-osm-16-600-300@2x.png";s:4:"hash";s:32:"c1543fbfdd3c5aa3c61b6bf5afadda8b";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -496,7 +496,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:9:"5x600x300";a:6:{s:3:"url";s:129:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300.png";s:6:"url_2x";s:132:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300@2x.png";s:4:"hash";s:32:"959376acc3b367a7b090fede6da8b61d";s:4:"zoom";i:5;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:9:"5x600x300";a:6:{s:3:"url";s:130:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300.png";s:6:"url_2x";s:133:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/berlin-osm-5-600-300@2x.png";s:4:"hash";s:32:"959376acc3b367a7b090fede6da8b61d";s:4:"zoom";i:5;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -513,20 +513,20 @@
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 	<!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+	<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group --></div>
@@ -590,11 +590,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -617,16 +617,16 @@
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
 	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -779,7 +779,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:138:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300.png";s:6:"url_2x";s:141:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300@2x.png";s:4:"hash";s:32:"0068baa0d7d65a6de7a0be86174d6fd9";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:139:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300.png";s:6:"url_2x";s:142:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/turin-piedmont-osm-16-600-300@2x.png";s:4:"hash";s:32:"0068baa0d7d65a6de7a0be86174d6fd9";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
@@ -816,21 +816,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -902,11 +902,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -929,17 +929,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1036,21 +1036,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1104,11 +1104,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1131,17 +1131,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1289,21 +1289,21 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1357,11 +1357,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1384,17 +1384,17 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1508,20 +1508,20 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-b510c1fa-78a3-4742-8277-fbade2aaa77b","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -1593,11 +1593,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -1620,16 +1620,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-2aa86207-a5e3-475b-86a1-33ceaf3139ef","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -1766,7 +1766,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:195:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300.png";s:6:"url_2x";s:198:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300@2x.png";s:4:"hash";s:32:"715ab23b4cd691f12154b0df6180d785";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:196:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300.png";s:6:"url_2x";s:199:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/777-northeast-martin-luther-king-junior-boulevard-portland-oregon-97204-osm-16-600-300@2x.png";s:4:"hash";s:32:"715ab23b4cd691f12154b0df6180d785";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
@@ -1874,7 +1874,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:172:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300.png";s:6:"url_2x";s:175:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300@2x.png";s:4:"hash";s:32:"2ceef7dcb94505517e1d934dc8535fbe";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:173:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300.png";s:6:"url_2x";s:176:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/l4-702-harris-street-sydney-new-south-wales-2007-osm-16-600-300@2x.png";s:4:"hash";s:32:"2ceef7dcb94505517e1d934dc8535fbe";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1897,20 +1897,20 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1305ed2a-a072-4bd4-8b28-d7ebf93030af","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -1981,11 +1981,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -2008,16 +2008,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2155,20 +2155,20 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"calendar"} /-->
 
 <!-- wp:gatherpress/dropdown {"dropdownId":"dropdown-1c5cd76b-1232-4ea6-af3c-ad1d5ad999cb","label":"Add to calendar","metadata":{"name":"Add to calendar"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Add to calendar</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-google-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eGoogle Calendar\u003c/a\u003e","metadata":{"name":"Google Calendar"}} -->
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-google-calendar" rel="noreferrer noopener nofollow" target="_blank">Google Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-ical-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eiCal\u003c/a\u003e","metadata":{"name":"iCal"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-ical-calendar" rel="noreferrer noopener nofollow">iCal</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-outlook-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022\u003eOutlook\u003c/a\u003e","metadata":{"name":"Outlook"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-outlook-calendar" rel="noreferrer noopener nofollow">Outlook</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#gatherpress-yahoo-calendar\u0022 rel=\u0022noreferrer noopener nofollow\u0022 target=\u0022_blank\u0022\u003eYahoo Calendar\u003c/a\u003e","metadata":{"name":"Yahoo Calendar"}} -->
-<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
+<div class="wp-block-gatherpress-dropdown-item"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/#gatherpress-yahoo-calendar" rel="noreferrer noopener nofollow" target="_blank">Yahoo Calendar</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group --></div>
@@ -2239,11 +2239,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
-<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-login-url">Login</a> to RSVP to this event.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
-<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/scope:ambitious-chic-park/scope:funny-quiet-country/#gatherpress-registration-url">Register here</a> to create one.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
@@ -2266,16 +2266,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:gatherpress/icon {"icon":"groups"} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-111c6ad4-9412-4068-8ee2-0e1be9cfca7d","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="/scope:energetic-classic-river/scope:energetic-noisy-forest/scope:happy-chic-ocean/scope:confident-chic-mountain/">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2432,7 +2432,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:190:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:193:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:191:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300.png";s:6:"url_2x";s:194:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/palacio-de-congresos-de-granada-paseo-del-violon-s-n-18006-granada-osm-16-600-300@2x.png";s:4:"hash";s:32:"cc3ef1598df17ceb7925e7fc10f0f958";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2541,8 +2541,8 @@
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:45:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-29 12:45:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 12:45:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 12:45:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 13:05:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 13:05:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordcamp-us-2026]]></wp:post_name>
@@ -2552,7 +2552,10 @@
 		<wp:post_type><![CDATA[gatherpress_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="_gatherpress_venue" nicename="_phoenix-convention-center"><![CDATA[Phoenix Convention Center]]></category>
+										<category domain="gatherpress_topic" nicename="gatherpress"><![CDATA[GatherPress]]></category>
+		<category domain="gatherpress_topic" nicename="holiday"><![CDATA[Holiday]]></category>
+		<category domain="_gatherpress_venue" nicename="_phoenix-convention-center"><![CDATA[Phoenix Convention Center]]></category>
+		<category domain="gatherpress_topic" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[187]]></wp:meta_value>
@@ -2608,6 +2611,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_datetime_end_gmt]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2026-08-20 03:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
@@ -2693,8 +2700,8 @@
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:51:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-29 12:51:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 12:51:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 12:51:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 13:05:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 13:05:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordcamp-europe-2027]]></wp:post_name>
@@ -2705,6 +2712,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="_gatherpress_venue" nicename="_fycma-trade-fair-and-congress-center-of-malaga"><![CDATA[FYCMA – Trade Fair and Congress Center of Málaga]]></category>
+		<category domain="gatherpress_topic" nicename="holiday"><![CDATA[Holiday]]></category>
+		<category domain="gatherpress_topic" nicename="wordpress"><![CDATA[WordPress]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[191]]></wp:meta_value>
@@ -2762,6 +2771,10 @@
 		<wp:meta_value><![CDATA[2027-05-29 18:00:00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2027-05-27 18:00:00";s:18:"datetime_start_gmt";s:19:"2027-05-27 16:00:00";s:12:"datetime_end";s:19:"2027-05-29 20:00:00";s:16:"datetime_end_gmt";s:19:"2027-05-29 18:00:00";s:8:"timezone";s:13:"Europe/Madrid";}]]></wp:meta_value>
 		</wp:postmeta>
@@ -2778,8 +2791,8 @@
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:46:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-29 12:46:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 12:46:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 12:46:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:46:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:46:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[depositphotos_9609337_s]]></wp:post_name>
@@ -2826,6 +2839,14 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3084,7 +3105,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- wp:query {"queryId":0,"query":{"perPage":5,"pages":0,"offset":0,"postType":"gatherpress_event","order":"asc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"namespace":"gatherpress-event-query","metadata":{"name":"Upcoming Events"},"className":"gatherpress-event-query"} -->
 <div class="wp-block-query gatherpress-event-query"><!-- wp:post-template {"metadata":{"name":"Events Template"},"style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
 <!-- wp:media-text {"mediaPosition":"right","mediaType":"image","mediaWidth":40,"imageFill":false,"useFeaturedImage":true,"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} -->
-<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="margin-bottom:var(--wp--preset--spacing--30);grid-template-columns:auto 40%"><div class="wp-block-media-text__content"><!-- wp:gatherpress/event-date {"displayType":"start","startDateFormat":"D, M j, Y, g:i a T","style":{"typography":{"textTransform":"uppercase"}},"fontSize":"medium"} /-->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="margin-bottom:var(--wp--preset--spacing--30);grid-template-columns:auto 40%"><div class="wp-block-media-text__content"><!-- wp:gatherpress/event-date {"displayType":"start","startDateFormat":"D, M j, Y, g:i a","showTimezone":"yes","style":{"typography":{"textTransform":"uppercase"}},"fontSize":"medium"} /-->
 
 <!-- wp:post-title {"isLink":true} /-->
 
@@ -3121,8 +3142,60 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:gatherpress/rsvp {"layout":{"type":"flex","justifyContent":"right","flexWrap":"wrap"}} -->
-<div class="wp-block-gatherpress-rsvp"></div>
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:gatherpress/rsvp {"serializedInnerBlocks":"{\u0022no_status\u0022:\u0022\u003c!\u002d\u002d wp:gatherpress/modal-manager \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal-manager\u005c\u0022\u003e\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022center\u005c\u0022,\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022center\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-open\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-modal\u002d\u002dtrigger-open\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eRSVP\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/modal {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Modal\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtype-rsvp\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal gatherpress-modal\u002d\u002dtype-rsvp\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/modal-content {\u005c\u0022backgroundColor\u005c\u0022:\u005c\u0022white\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv style=\u005c\u0022padding:20px;max-width:400px\u005c\u0022 class=\u005c\u0022wp-block-gatherpress-modal-content has-white-background-color has-background\u005c\u0022\u003e\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Heading\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eRSVP to this event\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Info\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cp\u003eTo set your attendance status, simply click the \u003cstrong\u003eAttend\u003c/strong\u003e button below.\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/form-field {\u005c\u0022fieldType\u005c\u0022:\u005c\u0022checkbox\u005c\u0022,\u005c\u0022fieldName\u005c\u0022:\u005c\u0022gatherpress_rsvp_anonymous\u005c\u0022,\u005c\u0022label\u005c\u0022:\u005c\u0022\u005c\u005cu003cspan class=\u005c\u005cu0022gatherpress-tooltip\u005c\u005cu0022 data-gatherpress-tooltip=\u005c\u005cu0022Only admins will see your identity.\u005c\u005cu0022\u005c\u005cu003eList me as anonymous\u005c\u005cu003c/span\u005c\u005cu003e\u005c\u0022,\u005c\u0022autocomplete\u005c\u0022:\u005c\u0022off\u005c\u0022,\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp-field-anonymous\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022left\u005c\u0022,\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022}}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022flex-start\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022 style=\u005c\u0022margin-bottom:0;padding-bottom:0\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp\u005c\u005cu002d\u005c\u005cu002dtrigger-update\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-rsvp\u002d\u002dtrigger-update\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eAttend\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Close Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022is-style-outline gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-close\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button is-style-outline gatherpress-modal\u002d\u002dtrigger-close\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eClose\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-content \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/modal {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Login Modal\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dlogin\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal gatherpress-modal\u002d\u002dlogin\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/modal-content {\u005c\u0022backgroundColor\u005c\u0022:\u005c\u0022white\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv style=\u005c\u0022padding:20px;max-width:400px\u005c\u0022 class=\u005c\u0022wp-block-gatherpress-modal-content has-white-background-color has-background\u005c\u0022\u003e\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Login Heading\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eLogin Required\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Login Info\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress\u005c\u005cu002d\u005c\u005cu002dhas-login-url\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cp class=\u005c\u0022gatherpress\u002d\u002dhas-login-url\u005c\u0022\u003eThis action requires an account. Please \u003ca href=\u005c\u0022#gatherpress-login-url\u005c\u0022\u003eLogin\u003c/a\u003e to RSVP to this event.\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Register Info\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress\u005c\u005cu002d\u005c\u005cu002dhas-registration-url\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cp class=\u005c\u0022gatherpress\u002d\u002dhas-registration-url\u005c\u0022\u003eDon't have an account? \u003ca href=\u005c\u0022#gatherpress-registration-url\u005c\u0022\u003eRegister here\u003c/a\u003e to create one.\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022left\u005c\u0022,\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022}}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022flex-start\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022 style=\u005c\u0022margin-bottom:0;padding-bottom:0\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Close Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-close\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-modal\u002d\u002dtrigger-close\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eClose\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-content \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-manager \u002d\u002d\u003e\u0022,\u0022attending\u0022:\u0022\u003c!\u002d\u002d wp:gatherpress/modal-manager {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u0022var:preset|spacing|40\u005c\u0022}}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal-manager\u005c\u0022\u003e\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022center\u005c\u0022,\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022center\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-open\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-modal\u002d\u002dtrigger-open\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eEdit RSVP\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:group {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u00220\u005c\u0022}}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-group\u005c\u0022\u003e\u003c!\u002d\u002d wp:group {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u0022var:preset|spacing|20\u005c\u0022}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022flexWrap\u005c\u0022:\u005c\u0022nowrap\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-group\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/icon {\u005c\u0022icon\u005c\u0022:\u005c\u0022yes-alt\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Status\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eAttending\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:group \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/rsvp-guest-count-display /\u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:group \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/modal {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Modal\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtype-rsvp\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal gatherpress-modal\u002d\u002dtype-rsvp\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/modal-content {\u005c\u0022backgroundColor\u005c\u0022:\u005c\u0022white\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv style=\u005c\u0022padding:20px;max-width:400px\u005c\u0022 class=\u005c\u0022wp-block-gatherpress-modal-content has-white-background-color has-background\u005c\u0022\u003e\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Heading\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eYou're Attending\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Info\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cp\u003eTo change your attendance status, simply click the \u003cstrong\u003eNot Attending\u003c/strong\u003e button below.\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/form-field {\u005c\u0022fieldType\u005c\u0022:\u005c\u0022number\u005c\u0022,\u005c\u0022fieldName\u005c\u0022:\u005c\u0022gatherpress_rsvp_guests\u005c\u0022,\u005c\u0022label\u005c\u0022:\u005c\u0022Number of guests?\u005c\u0022,\u005c\u0022placeholder\u005c\u0022:\u005c\u00220\u005c\u0022,\u005c\u0022minValue\u005c\u0022:0,\u005c\u0022inlineLayout\u005c\u0022:true,\u005c\u0022fieldWidth\u005c\u0022:10,\u005c\u0022inputPadding\u005c\u0022:5,\u005c\u0022autocomplete\u005c\u0022:\u005c\u0022off\u005c\u0022,\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp-field-guests\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/form-field {\u005c\u0022fieldType\u005c\u0022:\u005c\u0022checkbox\u005c\u0022,\u005c\u0022fieldName\u005c\u0022:\u005c\u0022gatherpress_rsvp_anonymous\u005c\u0022,\u005c\u0022label\u005c\u0022:\u005c\u0022\u005c\u005cu003cspan class=\u005c\u005cu0022gatherpress-tooltip\u005c\u005cu0022 data-gatherpress-tooltip=\u005c\u005cu0022Only admins will see your identity.\u005c\u005cu0022\u005c\u005cu003eList me as anonymous\u005c\u005cu003c/span\u005c\u005cu003e\u005c\u0022,\u005c\u0022autocomplete\u005c\u0022:\u005c\u0022off\u005c\u0022,\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp-field-anonymous\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022left\u005c\u0022,\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022}}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022flex-start\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022 style=\u005c\u0022margin-bottom:0;padding-bottom:0\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp\u005c\u005cu002d\u005c\u005cu002dtrigger-update\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-rsvp\u002d\u002dtrigger-update\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eNot Attending\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Close Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022is-style-outline gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-close\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button is-style-outline gatherpress-modal\u002d\u002dtrigger-close\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eClose\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-content \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-manager \u002d\u002d\u003e\u0022,\u0022waiting_list\u0022:\u0022\u003c!\u002d\u002d wp:gatherpress/modal-manager {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u0022var:preset|spacing|40\u005c\u0022}}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal-manager\u005c\u0022\u003e\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022center\u005c\u0022,\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022center\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-open\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-modal\u002d\u002dtrigger-open\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eEdit RSVP\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:group {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u0022var:preset|spacing|20\u005c\u0022}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022flexWrap\u005c\u0022:\u005c\u0022nowrap\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-group\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/icon {\u005c\u0022icon\u005c\u0022:\u005c\u0022clock\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Status\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eWaiting List\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:group \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/modal {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Modal\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtype-rsvp\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal gatherpress-modal\u002d\u002dtype-rsvp\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/modal-content {\u005c\u0022backgroundColor\u005c\u0022:\u005c\u0022white\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv style=\u005c\u0022padding:20px;max-width:400px\u005c\u0022 class=\u005c\u0022wp-block-gatherpress-modal-content has-white-background-color has-background\u005c\u0022\u003e\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Heading\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eYou're Wait Listed\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Info\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cp\u003eTo change your attendance status, simply click the \u003cstrong\u003eNot Attending\u003c/strong\u003e button below.\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/form-field {\u005c\u0022fieldType\u005c\u0022:\u005c\u0022checkbox\u005c\u0022,\u005c\u0022fieldName\u005c\u0022:\u005c\u0022gatherpress_rsvp_anonymous\u005c\u0022,\u005c\u0022label\u005c\u0022:\u005c\u0022\u005c\u005cu003cspan class=\u005c\u005cu0022gatherpress-tooltip\u005c\u005cu0022 data-gatherpress-tooltip=\u005c\u005cu0022Only admins will see your identity.\u005c\u005cu0022\u005c\u005cu003eList me as anonymous\u005c\u005cu003c/span\u005c\u005cu003e\u005c\u0022,\u005c\u0022autocomplete\u005c\u0022:\u005c\u0022off\u005c\u0022,\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp-field-anonymous\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022left\u005c\u0022,\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022}}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022flex-start\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022 style=\u005c\u0022margin-bottom:0;padding-bottom:0\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp\u005c\u005cu002d\u005c\u005cu002dtrigger-update\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-rsvp\u002d\u002dtrigger-update\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eNot Attending\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Close Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022is-style-outline gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-close\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button is-style-outline gatherpress-modal\u002d\u002dtrigger-close\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eClose\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-content \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-manager \u002d\u002d\u003e\u0022,\u0022not_attending\u0022:\u0022\u003c!\u002d\u002d wp:gatherpress/modal-manager {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u0022var:preset|spacing|40\u005c\u0022}}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal-manager\u005c\u0022\u003e\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022center\u005c\u0022,\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022center\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-open\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-modal\u002d\u002dtrigger-open\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eEdit RSVP\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:group {\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022blockGap\u005c\u0022:\u005c\u0022var:preset|spacing|20\u005c\u0022}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022flexWrap\u005c\u0022:\u005c\u0022nowrap\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-group\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/icon {\u005c\u0022icon\u005c\u0022:\u005c\u0022dismiss\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Status\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eNot Attending\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:group \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/modal {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Modal\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtype-rsvp\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-gatherpress-modal gatherpress-modal\u002d\u002dtype-rsvp\u005c\u0022\u003e\u003c!\u002d\u002d wp:gatherpress/modal-content {\u005c\u0022backgroundColor\u005c\u0022:\u005c\u0022white\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv style=\u005c\u0022padding:20px;max-width:400px\u005c\u0022 class=\u005c\u0022wp-block-gatherpress-modal-content has-white-background-color has-background\u005c\u0022\u003e\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Heading\u005c\u0022},\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022top\u005c\u0022:\u005c\u00220\u005c\u0022}}}} \u002d\u002d\u003e\u005cn\u003cp style=\u005c\u0022margin-top:0;padding-top:0\u005c\u0022\u003e\u003cstrong\u003eYou're Not Attending\u003c/strong\u003e\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:paragraph {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Info\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cp\u003eTo change your attendance status, simply click the \u003cstrong\u003eAttending\u003c/strong\u003e button below.\u003c/p\u003e\u005cn\u003c!\u002d\u002d /wp:paragraph \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:gatherpress/form-field {\u005c\u0022fieldType\u005c\u0022:\u005c\u0022checkbox\u005c\u0022,\u005c\u0022fieldName\u005c\u0022:\u005c\u0022gatherpress_rsvp_anonymous\u005c\u0022,\u005c\u0022label\u005c\u0022:\u005c\u0022\u005c\u005cu003cspan class=\u005c\u005cu0022gatherpress-tooltip\u005c\u005cu0022 data-gatherpress-tooltip=\u005c\u005cu0022Only admins will see your identity.\u005c\u005cu0022\u005c\u005cu003eList me as anonymous\u005c\u005cu003c/span\u005c\u005cu003e\u005c\u0022,\u005c\u0022autocomplete\u005c\u0022:\u005c\u0022off\u005c\u0022,\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp-field-anonymous\u005c\u0022} /\u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022left\u005c\u0022,\u005c\u0022style\u005c\u0022:{\u005c\u0022spacing\u005c\u0022:{\u005c\u0022margin\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022},\u005c\u0022padding\u005c\u0022:{\u005c\u0022bottom\u005c\u0022:\u005c\u00220\u005c\u0022}}},\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022flex-start\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022 style=\u005c\u0022margin-bottom:0;padding-bottom:0\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress-rsvp\u005c\u005cu002d\u005c\u005cu002dtrigger-update\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress-rsvp\u002d\u002dtrigger-update\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eAttending\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u005cn\u005cn\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Close Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022is-style-outline gatherpress-modal\u005c\u005cu002d\u005c\u005cu002dtrigger-close\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button is-style-outline gatherpress-modal\u002d\u002dtrigger-close\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003eClose\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-content \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:gatherpress/modal-manager \u002d\u002d\u003e\u0022,\u0022past\u0022:\u0022\u003c!\u002d\u002d wp:buttons {\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022Call to Action\u005c\u0022},\u005c\u0022align\u005c\u0022:\u005c\u0022center\u005c\u0022,\u005c\u0022layout\u005c\u0022:{\u005c\u0022type\u005c\u0022:\u005c\u0022flex\u005c\u0022,\u005c\u0022justifyContent\u005c\u0022:\u005c\u0022center\u005c\u0022}} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-buttons\u005c\u0022\u003e\u003c!\u002d\u002d wp:button {\u005c\u0022tagName\u005c\u0022:\u005c\u0022button\u005c\u0022,\u005c\u0022metadata\u005c\u0022:{\u005c\u0022name\u005c\u0022:\u005c\u0022RSVP Button\u005c\u0022},\u005c\u0022className\u005c\u0022:\u005c\u0022gatherpress\u005c\u005cu002d\u005c\u005cu002dis-disabled\u005c\u0022} \u002d\u002d\u003e\u005cn\u003cdiv class=\u005c\u0022wp-block-button gatherpress\u002d\u002dis-disabled\u005c\u0022\u003e\u003cbutton type=\u005c\u0022button\u005c\u0022 class=\u005c\u0022wp-block-button__link wp-element-button\u005c\u0022\u003ePast Event\u003c/button\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:button \u002d\u002d\u003e\u003c/div\u003e\u005cn\u003c!\u002d\u002d /wp:buttons \u002d\u002d\u003e\u0022}","patternPicked":true,"layout":{"type":"flex","justifyContent":"right","flexWrap":"wrap"}} -->
+<div class="wp-block-gatherpress-rsvp"><!-- wp:gatherpress/modal-manager -->
+<div class="wp-block-gatherpress-modal-manager"><!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"center","layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"tagName":"button","metadata":{"name":"RSVP Button"},"className":"gatherpress-modal\u002d\u002dtrigger-open"} -->
+<div class="wp-block-button gatherpress-modal--trigger-open"><button type="button" class="wp-block-button__link wp-element-button">RSVP</button></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:gatherpress/modal {"metadata":{"name":"RSVP Modal"},"className":"gatherpress-modal\u002d\u002dtype-rsvp"} -->
+<div class="wp-block-gatherpress-modal gatherpress-modal--type-rsvp"><!-- wp:gatherpress/modal-content {"backgroundColor":"white"} -->
+<div style="padding:20px;max-width:400px" class="wp-block-gatherpress-modal-content has-white-background-color has-background"><!-- wp:paragraph {"metadata":{"name":"RSVP Heading"},"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"0"}}}} -->
+<p style="margin-top:0;padding-top:0"><strong>RSVP to this event</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"RSVP Info"}} -->
+<p>To set your attendance status, simply click the <strong>Attend</strong> button below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gatherpress/form-field {"fieldType":"checkbox","fieldName":"gatherpress_rsvp_anonymous","label":"\u003cspan class=\u0022gatherpress-tooltip\u0022 data-gatherpress-tooltip=\u0022Only admins will see your identity.\u0022\u003eList me as anonymous\u003c/span\u003e","autocomplete":"off","className":"gatherpress-rsvp-field-anonymous"} /-->
+
+<!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons" style="margin-bottom:0;padding-bottom:0"><!-- wp:button {"tagName":"button","metadata":{"name":"RSVP Button"},"className":"gatherpress-rsvp\u002d\u002dtrigger-update"} -->
+<div class="wp-block-button gatherpress-rsvp--trigger-update"><button type="button" class="wp-block-button__link wp-element-button">Attend</button></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"tagName":"button","metadata":{"name":"Close Button"},"className":"is-style-outline gatherpress-modal\u002d\u002dtrigger-close"} -->
+<div class="wp-block-button is-style-outline gatherpress-modal--trigger-close"><button type="button" class="wp-block-button__link wp-element-button">Close</button></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:gatherpress/modal-content --></div>
+<!-- /wp:gatherpress/modal -->
+
+<!-- wp:gatherpress/modal {"metadata":{"name":"Login Modal"},"className":"gatherpress-modal\u002d\u002dlogin"} -->
+<div class="wp-block-gatherpress-modal gatherpress-modal--login"><!-- wp:gatherpress/modal-content {"backgroundColor":"white"} -->
+<div style="padding:20px;max-width:400px" class="wp-block-gatherpress-modal-content has-white-background-color has-background"><!-- wp:paragraph {"metadata":{"name":"Login Heading"},"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"0"}}}} -->
+<p style="margin-top:0;padding-top:0"><strong>Login Required</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="#gatherpress-registration-url">Register here</a> to create one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons" style="margin-bottom:0;padding-bottom:0"><!-- wp:button {"tagName":"button","metadata":{"name":"Close Button"},"className":"gatherpress-modal\u002d\u002dtrigger-close"} -->
+<div class="wp-block-button gatherpress-modal--trigger-close"><button type="button" class="wp-block-button__link wp-element-button">Close</button></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:gatherpress/modal-content --></div>
+<!-- /wp:gatherpress/modal --></div>
+<!-- /wp:gatherpress/modal-manager --></div>
 <!-- /wp:gatherpress/rsvp --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -3142,8 +3215,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-29 23:30:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-29 23:30:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 12:52:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 12:52:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 13:05:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 13:05:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[events]]></wp:post_name>
@@ -3293,8 +3366,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>185</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-29 12:44:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 12:45:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 12:45:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[phoenix-convention-center]]></wp:post_name>
@@ -3318,7 +3391,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:167:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/1202-north-3rd-street-phoenix-arizona-85004-osm-16-600-300.png";s:6:"url_2x";s:170:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/1202-north-3rd-street-phoenix-arizona-85004-osm-16-600-300@2x.png";s:4:"hash";s:32:"854dac4249bce08a3d0a06ddea485388";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:168:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/1202-north-3rd-street-phoenix-arizona-85004-osm-16-600-300.png";s:6:"url_2x";s:171:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/1202-north-3rd-street-phoenix-arizona-85004-osm-16-600-300@2x.png";s:4:"hash";s:32:"854dac4249bce08a3d0a06ddea485388";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
@@ -3357,8 +3430,8 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:48:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-29 12:48:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-29 12:51:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-29 12:51:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-06-29 12:48:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-29 12:48:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fycma-trade-fair-and-congress-center-of-malaga]]></wp:post_name>
@@ -3382,7 +3455,7 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:179:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/201-avenida-jose-ortega-y-gasset-malaga-andalusia-29006-osm-16-600-300.png";s:6:"url_2x";s:182:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/201-avenida-jose-ortega-y-gasset-malaga-andalusia-29006-osm-16-600-300@2x.png";s:4:"hash";s:32:"431b507eba193bd88f0111a092b753a3";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:180:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/201-avenida-jose-ortega-y-gasset-malaga-andalusia-29006-osm-16-600-300.png";s:6:"url_2x";s:183:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/201-avenida-jose-ortega-y-gasset-malaga-andalusia-29006-osm-16-600-300@2x.png";s:4:"hash";s:32:"431b507eba193bd88f0111a092b753a3";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
