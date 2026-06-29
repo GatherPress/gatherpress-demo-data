@@ -1,7 +1,7 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
   "preferredVersions": {
-    "php": "8.2",
+    "php": "8.4",
     "wp": "latest"
   },
   "phpExtensionBundles": [
@@ -20,22 +20,17 @@
         "users_can_register": 1,
         "permalink_structure": "/%year%/%monthnum%/%postname%/",
         "wordpress_export_to_server__file": "GatherPress-demo-data-0.34.0.xml",
+        "wordpress_export_to_server__path": "/wordpress/wp-content/uploads",
         "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
-        "wordpress_export_to_server__export_home": "https://gatherpress.test"
+        "wordpress_export_to_server__export_home": "https://gatherpress.test",
+        "wordpress_export_to_server__export_path": ""
       }
     },
     {
       "step": "defineWpConfigConsts",
       "consts": {
-          "UPLOADS": "wp-content/demo-data-main",
-          "IMPORT_DEBUG": 1,
-          "DISABLE_WP_CRON": true,
-          "GATHERPRESS_ALPHA_VERSION": 1
+          "DISABLE_WP_CRON": true
       }
-    },
-    {
-      "step": "runPHP",
-      "code": "<?php require '/wordpress/wp-load.php'; add_filter( 'import_allow_fetch_attachments', '__return_false' );"
     },
     {
       "step": "runPHP",
@@ -69,16 +64,6 @@
 			}
     },
     {
-      "step": "installPlugin",
-      "pluginZipFile": {
-        "resource": "wordpress.org/plugins",
-        "slug": "gatherpress"
-      },
-      "options": {
-        "activate": true
-      }
-    },
-    {
       "step": "writeFile",
       "path": "/wordpress/wp-content/gatherpress-demo-data.zip",
       "data": {
@@ -100,6 +85,15 @@
       "extractToPath": "/wordpress/wp-content"
     },
     {
+        "step": "mv",
+        "fromPath": "/wordpress/wp-content/https-github.com-GatherPress-gatherpress-demo-data-HEAD",
+        "toPath": "/wordpress/wp-content/uploads"
+    },
+    {
+        "step": "rmdir",
+        "path": "/wordpress/wp-content/uploads/2024"
+    },
+    {
       "step": "writeFile",
       "path": "/wordpress/wp-content/mu-plugins/wordpress-export-to-server.php",
       "data": {
@@ -108,15 +102,41 @@
       }
     },
     {
-      "step": "installPlugin",
-      "pluginZipFile": {
-        "resource": "url",
-        "url": "https://github-proxy.com/proxy/?repo=humanmade/WordPress-Importer"
+        "step": "installPlugin",
+        "pluginData": {
+            "resource": "url",
+            "url": "https://github.com/GatherPress/gatherpress/releases/download/0.34.0-beta.1/gatherpress.0.34.0-beta.1.zip"
+        },
+      "options": {
+          "activate": true
       }
     },
     {
-      "step": "runPHP",
-      "code": "<?php require '/wordpress/wp-load.php';$path = realpath( '/wordpress/wp-content/demo-data-main/GatherPress-demo-data-0.34.0.xml' );$logger = new WP_Importer_Logger_CLI();$logger->min_level = 'info';$options = array( 'fetch_attachments' => false, 'default_author' => 1,);$importer = new WXR_Importer( $options );$importer->set_logger( $logger );$result = $importer->import( $path );"
+        "step": "installPlugin",
+        "pluginData": {
+            "resource": "url",
+            "url": "https://github.com/GatherPress/gatherpress-alpha/releases/download/0.34.0-beta.1/gatherpress-alpha.0.34.0-beta.1.zip"
+        },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+          "resource": "url",
+          "url": "https://github.com/carstingaxion/gatherpress-export-import/releases/latest/download/gatherpress-export-import.zip"
+      },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-0.34.0.xml"
+      }
     }
   ]
 }
