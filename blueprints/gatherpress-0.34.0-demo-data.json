@@ -98,17 +98,17 @@
         "path": "/wordpress/wp-content/uploads/2026"
     },
     {
-        "step": "mv",
-        "fromPath": "/wordpress/wp-content/uploads/blueprints/gatherpress-do-not-rewrite-urls-on-import.php",
-        "toPath": "/wordpress/wp-content/mu-plugins/gatherpress-do-not-rewrite-urls-on-import.php"
-    },
-    {
       "step": "writeFile",
       "path": "/wordpress/wp-content/mu-plugins/wordpress-export-to-server.php",
       "data": {
         "resource": "url",
         "url": "https://raw.githubusercontent.com/carstingaxion/wordpress-export-to-server/main/wordpress-export-to-server.php"
       }
+    },
+    {
+        "step": "mv",
+        "fromPath": "/wordpress/wp-content/uploads/blueprints/gatherpress-do-not-rewrite-urls-on-import.php",
+        "toPath": "/wordpress/wp-content/mu-plugins/gatherpress-do-not-rewrite-urls-on-import.php"
     },
     {
         "step": "installPlugin",
