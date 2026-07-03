@@ -19,7 +19,7 @@
         "blogdescription": "Powering Communities with WordPress.",
         "users_can_register": 1,
         "permalink_structure": "/%year%/%monthnum%/%postname%/",
-        "wordpress_export_to_server__file": "GatherPress-demo-data-0.34.0.xml",
+        "wordpress_export_to_server__file": "GatherPress-demo-data-0.35.0.xml",
         "wordpress_export_to_server__path": "/wordpress/wp-content/uploads",
         "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
         "wordpress_export_to_server__export_home": "https://gatherpress.test",
@@ -111,11 +111,11 @@
         "toPath": "/wordpress/wp-content/mu-plugins/gatherpress-do-not-rewrite-urls-on-import.php"
     },
     {
-        "step": "installPlugin",
-        "pluginData": {
-            "resource": "url",
-            "url": "https://github.com/GatherPress/gatherpress/releases/download/0.34.0/gatherpress.0.34.0.zip"
-        },
+      "step": "installPlugin",
+      "pluginData": {
+          "resource": "url",
+          "url": "https://github.com/GatherPress/gatherpress-nightlies/releases/latest/download/gatherpress-nightly.zip"
+      },
       "options": {
           "activate": true
       }
@@ -124,7 +124,7 @@
         "step": "installPlugin",
         "pluginData": {
             "resource": "url",
-            "url": "https://github.com/GatherPress/gatherpress-alpha/releases/download/0.34.0/gatherpress-alpha.0.34.0.zip"
+            "url": "https://github.com/GatherPress/gatherpress-alpha/releases/download/0.35.0-alpha.1/gatherpress-alpha.0.35.0-alpha.1.zip"
         },
       "options": {
           "activate": true
@@ -144,7 +144,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-0.34.0.xml"
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-0.35.0.xml"
       }
     }
   ]
