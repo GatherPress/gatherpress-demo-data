@@ -142,6 +142,13 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
 	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[_gatherpress_venue]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[_muzeum-miasta-gdyni]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Muzeum Miasta Gdyni]]></wp:term_name>
+	</wp:term>
 		
 	<generator>https://wordpress.org/?v=7.0</generator>
 
@@ -2813,6 +2820,289 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[wordup-gdynia-25]]></title>
+		<link>https://gatherpress.test/event/wordup-gdynia-25/wordup-gdynia-25/</link>
+		<pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/09/wordup-gdynia-25.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>194</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-03 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-03 10:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-03 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-03 10:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wordup-gdynia-25-banner]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>195</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/2026/09/wordup-gdynia-25.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/wordup-gdynia-25.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:29:"2026/09/wordup-gdynia-25.webp";s:8:"filesize";i:83540;s:5:"sizes";a:0:{}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[WordUp Gdynia #25 "Jeszcze lato!"]]></title>
+		<link>https://gatherpress.test/event/wordup-gdynia-25/</link>
+		<pubDate>Mon, 03 Aug 2026 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/?post_type=gatherpress_event&#038;p=195</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:post-excerpt /-->
+
+<!-- wp:gatherpress/event-date {"startDateFormat":"F j, Y","endDateFormat":"F j, Y","showTimezone":"yes"} /-->
+
+<!-- wp:gatherpress/venue {"patternPicked":true} -->
+<!-- wp:post-title {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}}} /-->
+
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:gatherpress/icon {"icon":"location"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-phone","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-phone"><!-- wp:gatherpress/icon {"icon":"phone"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue phone…","fieldType":"phone"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-website"><!-- wp:gatherpress/icon {"icon":"admin-site-alt3"} /-->
+
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:gatherpress/venue-map /-->
+<!-- /wp:gatherpress/venue -->
+
+<!-- wp:gatherpress/rsvp -->
+<div class="wp-block-gatherpress-rsvp"><!-- wp:gatherpress/modal-manager -->
+<div class="wp-block-gatherpress-modal-manager"><!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"center","layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"tagName":"button","metadata":{"name":"RSVP Button"},"className":"gatherpress-modal\u002d\u002dtrigger-open"} -->
+<div class="wp-block-button gatherpress-modal--trigger-open"><button type="button" class="wp-block-button__link wp-element-button">RSVP</button></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:gatherpress/modal {"metadata":{"name":"RSVP Modal"},"className":"gatherpress-modal\u002d\u002dtype-rsvp"} -->
+<div class="wp-block-gatherpress-modal gatherpress-modal--type-rsvp"><!-- wp:gatherpress/modal-content {"className":"has-contrast-color has-white-background-color has-text-color has-background"} -->
+<div style="padding:20px;max-width:400px" class="wp-block-gatherpress-modal-content has-contrast-color has-white-background-color has-text-color has-background"><!-- wp:paragraph {"metadata":{"name":"RSVP Heading"},"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"0"}}}} -->
+<p style="margin-top:0;padding-top:0"><strong>RSVP to this event</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"RSVP Info"}} -->
+<p>To set your attendance status, simply click the <strong>Attend</strong> button below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gatherpress/form-field {"fieldType":"checkbox","fieldName":"gatherpress_rsvp_anonymous","label":"List me as anonymous.","autocomplete":"off","className":"gatherpress-rsvp-field-anonymous"} /-->
+
+<!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons" style="margin-bottom:0;padding-bottom:0"><!-- wp:button {"tagName":"button","metadata":{"name":"RSVP Button"},"className":"gatherpress-rsvp\u002d\u002dtrigger-update"} -->
+<div class="wp-block-button gatherpress-rsvp--trigger-update"><button type="button" class="wp-block-button__link wp-element-button">Attend</button></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"tagName":"button","metadata":{"name":"Close Button"},"className":"is-style-outline gatherpress-modal\u002d\u002dtrigger-close"} -->
+<div class="wp-block-button is-style-outline gatherpress-modal--trigger-close"><button type="button" class="wp-block-button__link wp-element-button">Close</button></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:gatherpress/modal-content --></div>
+<!-- /wp:gatherpress/modal -->
+
+<!-- wp:gatherpress/modal {"metadata":{"name":"Login Modal"},"className":"gatherpress-modal\u002d\u002dtype-login"} -->
+<div class="wp-block-gatherpress-modal gatherpress-modal--type-login"><!-- wp:gatherpress/modal-content {"className":"has-contrast-color has-white-background-color has-text-color has-background"} -->
+<div style="padding:20px;max-width:400px" class="wp-block-gatherpress-modal-content has-contrast-color has-white-background-color has-text-color has-background"><!-- wp:paragraph {"metadata":{"name":"Login Heading"},"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"0"}}}} -->
+<p style="margin-top:0;padding-top:0"><strong>Login Required</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Login Info"},"className":"gatherpress\u002d\u002dhas-login-url"} -->
+<p class="gatherpress--has-login-url">This action requires an account. Please <a href="#gatherpress-login-url">Login</a> to RSVP to this event.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"metadata":{"name":"Register Info"},"className":"gatherpress\u002d\u002dhas-registration-url"} -->
+<p class="gatherpress--has-registration-url">Don't have an account? <a href="#gatherpress-registration-url">Register here</a> to create one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"metadata":{"name":"Call to Action"},"align":"left","style":{"spacing":{"margin":{"bottom":"0"},"padding":{"bottom":"0"}}},"layout":{"type":"flex","justifyContent":"flex-start"}} -->
+<div class="wp-block-buttons" style="margin-bottom:0;padding-bottom:0"><!-- wp:button {"tagName":"button","metadata":{"name":"Close Button"},"className":"gatherpress-modal\u002d\u002dtrigger-close"} -->
+<div class="wp-block-button gatherpress-modal--trigger-close"><button type="button" class="wp-block-button__link wp-element-button">Close</button></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:gatherpress/modal-content --></div>
+<!-- /wp:gatherpress/modal --></div>
+<!-- /wp:gatherpress/modal-manager --></div>
+<!-- /wp:gatherpress/rsvp -->
+
+<!-- wp:heading {"level":2} -->
+<h2>O wydarzeniu</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Jubileuszowa 25. edycja WordUp Gdynia pod hasłem „Jeszcze lato!” w samym sercu Gdyni, tuż obok plaży i morza - w nowoczesnym foyer Muzeum Miasta Gdyni. Ponad 10 prelekcji, praktyczne warsztaty hands-on oraz panel dyskusyjny z udziałem uznanych ekspertów i praktyków ze świata WordPressa i web developmentu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Harmonogram</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>12:00</strong> Rejestracja, powitalna kawa i networking<br><strong>12:20</strong> Oficjalne otwarcie 25. edycji (Mariusz Szatkowski, Karolina Tanona)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Blok I: WordPress, Dev &amp; E-learning</strong><br>• <em>Ania Witko</em> - Kiedy platforma kursowa od agencji przestaje wystarczać. Case study migracji na Tutor LMS<br>• <em>Katarzyna Krówka</em> - Podsumowanie projektu edukacyjnego z Politechniki Krakowskiej<br>• <em>Krzysztof Radzikowski</em> - Mogę Ci pomóc w WordPressie, czyli MCP w WordPressie<br>• <em>Rafał Osiński</em> - AI development i agenci w pracy programisty</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Blok II: Widoczność i treść w czasach AI</strong><br>• <em>Damian Ślimak</em> - Warsztat: Przestań pisać prompty. Zbuduj sobie redaktora (poziom podstawowy)<br>• <em>Paweł Gontarek</em> - Od promptu do contentu i z powrotem: nowoczesne SEO i AEO<br>• <em>Jakub Sadowski</em> - Nowe zasady gry: oficjalne API kontra web scraping</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Blok III: AI w praktyce, ryzyka i prawo</strong><br>• <em>Maciej Wiśniewski</em> - Czy AI poleca Twoją firmę? Widoczność w ChatGPT i Perplexity<br>• <em>Magdalena Stasiak</em> - Designing for AI failure<br>• <em>Paulina Janik-Żak</em> - AI w e-commerce: najważniejsze obowiązki prawne przedsiębiorców<br>• <em>Damian Ślimak</em> - Warsztat: Fabryka grafik. Jeden szablon zamiast stu promptów (poziom zaawansowany)<br>• <em>Wielki Panel Dyskusyjny</em> - Czy AI zabierze pracę juniorom? (prowadzi Karolina Tanona)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>18:00</strong> Zakończenie części oficjalnej i zdjęcie grupowe<br><strong>19:00</strong> Afterparty i integracja społeczności w pubie PifPaf</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gatherpress/rsvp-response -->
+<div class="wp-block-gatherpress-rsvp-response"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:icon {"icon":"core/people","style":{"dimensions":{"width":"24px"}}} /-->
+
+<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-wordup25-rsvp","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
+<div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<!-- /wp:gatherpress/dropdown-item -->
+
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<!-- /wp:gatherpress/dropdown-item -->
+
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<!-- /wp:gatherpress/dropdown-item -->
+</div></div>
+<!-- /wp:gatherpress/dropdown --></div>
+<!-- /wp:group -->
+
+<!-- wp:gatherpress/rsvp-response-toggle /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"gatherpress\u002d\u002drsvp-responses","layout":{"type":"grid","columns":3,"justifyContent":"center","alignContent":"space-around","minimumColumnWidth":"8rem"}} -->
+<div class="wp-block-group gatherpress--rsvp-responses"><!-- wp:gatherpress/rsvp-template -->
+<!-- wp:group {"metadata":{"name":"RSVP User Info"},"style":{"spacing":{"blockGap":0}}} -->
+<div class="wp-block-group"><!-- wp:avatar {"isLink":true,"align":"center"} /-->
+
+<!-- wp:comment-author-name {"metadata":{"name":"Display Name"},"style":{"spacing":{"margin":{"top":"0","bottom":"0"}},"typography":{"textAlign":"center"}},"fontSize":"medium"} /-->
+
+<!-- wp:gatherpress/rsvp-guest-count-display {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"small"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:gatherpress/rsvp-template --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Empty RSVP"},"className":"gatherpress-rsvp-response\u002d\u002dno-responses gatherpress\u002d\u002dis-hidden"} -->
+<div class="wp-block-group gatherpress-rsvp-response--no-responses gatherpress--is-hidden"><!-- wp:paragraph {"metadata":{"name":"Empty RSVP Text"}} -->
+<p>No one is attending this event yet.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:gatherpress/rsvp-response -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Jubileuszowa 25. edycja WordUp Gdynia pod hasłem „Jeszcze lato!” w Muzeum Miasta Gdyni. Prelekcje, warsztaty i networking społeczności WordPressa nad samym morzem.]]></excerpt:encoded>
+		<wp:post_id>195</wp:post_id>
+		<wp:post_date><![CDATA[2026-08-03 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-08-03 10:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-03 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-03 10:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wordup-gdynia-25]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[gatherpress_event]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="gatherpress_topic" nicename="wordpress"><![CDATA[WordPress]]></category>
+		<category domain="_gatherpress_venue" nicename="_muzeum-miasta-gdyni"><![CDATA[Muzeum Miasta Gdyni]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[194]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"dateTimeStart":"2026-09-19 12:00:00","dateTimeEnd":"2026-09-19 18:00:00","timezone":"Europe/Warsaw"}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_max_guest_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_anonymous_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_enable_open_rsvp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_online_event_link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_max_attendance_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_start]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-09-19 12:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_end]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-09-19 18:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_timezone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Europe/Warsaw]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_start_gmt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-09-19 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_datetime_end_gmt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-09-19 16:00:00]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+			<wp:meta_key><![CDATA[gatherpress_datetimes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:14:"datetime_start";s:19:"2026-09-19 12:00:00";s:18:"datetime_start_gmt";s:19:"2026-09-19 10:00:00";s:12:"datetime_end";s:19:"2026-09-19 18:00:00";s:16:"datetime_end_gmt";s:19:"2026-09-19 16:00:00";s:8:"timezone";s:13:"Europe/Warsaw";}]]></wp:meta_value>
+		</wp:postmeta>
+				</item>
+					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>https://gatherpress.test/2026/05/hello-world/</link>
 		<pubDate>Sun, 24 May 2026 00:10:08 +0000</pubDate>
@@ -3472,6 +3762,70 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_map_zoom]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_height]]></wp:meta_key>
+		<wp:meta_value><![CDATA[300]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Muzeum Miasta Gdyni]]></title>
+		<link>https://gatherpress.test/venue/muzeum-miasta-gdyni/</link>
+		<pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://gatherpress.test/venue/muzeum-miasta-gdyni/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"patternPicked":true} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>196</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-19 12:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-19 10:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-19 12:00:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-19 10:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[muzeum-miasta-gdyni]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[gatherpress_venue]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Zawiszy Czarnego 1, 81-374 Gdynia, Poland]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_latitude]]></wp:meta_key>
+		<wp:meta_value><![CDATA[54.5168]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_longitude]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18.5446]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_static_map]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:3:"osm";a:1:{s:10:"16x600x300";a:6:{s:3:"url";s:155:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/zawiszy-czarnego-1-81-374-gdynia-poland-osm-16-600-300.png";s:6:"url_2x";s:158:"https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/gatherpress/static-maps/zawiszy-czarnego-1-81-374-gdynia-poland-osm-16-600-300@2x.png";s:4:"hash";s:32:"c199ee325440c1431847c30dd1dc7d1a";s:4:"zoom";i:16;s:5:"width";i:600;s:6:"height";i:300;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_phone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+48 58 662 09 10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://muzeumgdynia.pl/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_show]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[gatherpress_map_zoom]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[gatherpress_map_height]]></wp:meta_key>
