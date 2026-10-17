@@ -1,0 +1,151 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": {
+    "php": "8.4",
+    "wp": "latest"
+  },
+  "phpExtensionBundles": [
+    "kitchen-sink"
+  ],
+  "features": {
+    "networking": true
+  },
+  "landingPage": "/wp-admin/edit.php?post_type=gatherpress_event",
+  "steps": [
+     {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "GatherPress",
+        "blogdescription": "Powering Communities with WordPress.",
+        "users_can_register": 1,
+        "permalink_structure": "/%year%/%monthnum%/%postname%/",
+        "wordpress_export_to_server__file": "GatherPress-demo-data-0.36.0.xml",
+        "wordpress_export_to_server__path": "/wordpress/wp-content/uploads",
+        "wordpress_export_to_server__owner_repo_branch": "GatherPress/gatherpress-demo-data/main",
+        "wordpress_export_to_server__export_home": "https://gatherpress.test",
+        "wordpress_export_to_server__export_path": ""
+      }
+    },
+    {
+      "step": "defineWpConfigConsts",
+      "consts": {
+          "DISABLE_WP_CRON": true
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; $user_id = wp_create_user('editor', 'editorpass', 'editor@localhost.test'); (new WP_User($user_id))->set_role('editor');"
+    },
+    {
+      "step": "updateUserMeta",
+      "meta": {
+          "admin_color": "modern"
+      },
+      "userId": 1
+    },
+    {
+      "step": "updateUserMeta",
+      "meta": {
+          "admin_color": "modern"
+      },
+      "userId": 2
+    },
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    },
+    {
+      "step": "wp-cli",
+      "command": " wp post delete 1 2 3 --force",
+      "progress": {
+        "weight": 10,
+				"caption": "Deleting the WordPress default content."
+			}
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/gatherpress-demo-data.zip",
+      "data": {
+        "resource": "url",
+        "url": "https://github-proxy.com/proxy/?repo=GatherPress/gatherpress-demo-data",
+        "caption": "Downloading Demo data repo."
+      },
+      "progress": {
+        "weight": 2,
+        "caption": "Applying CI/CD prepared assets."
+      }
+    },
+    {
+      "step": "unzip",
+      "zipFile": {
+        "resource": "vfs",
+        "path": "/wordpress/wp-content/gatherpress-demo-data.zip"
+      },
+      "extractToPath": "/wordpress/wp-content"
+    },
+    {
+        "step": "mv",
+        "fromPath": "/wordpress/wp-content/https-github.com-GatherPress-gatherpress-demo-data-HEAD",
+        "toPath": "/wordpress/wp-content/uploads"
+    },
+    {
+        "step": "rmdir",
+        "path": "/wordpress/wp-content/uploads/2024"
+    },
+    {
+        "step": "rmdir",
+        "path": "/wordpress/wp-content/uploads/2026"
+    },
+    {
+      "step": "writeFile",
+      "path": "/wordpress/wp-content/mu-plugins/wordpress-export-to-server.php",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/carstingaxion/wordpress-export-to-server/main/wordpress-export-to-server.php"
+      }
+    },
+    {
+        "step": "mv",
+        "fromPath": "/wordpress/wp-content/uploads/blueprints/gatherpress-do-not-rewrite-urls-on-import.php",
+        "toPath": "/wordpress/wp-content/mu-plugins/gatherpress-do-not-rewrite-urls-on-import.php"
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+          "resource": "url",
+          "url": "https://github.com/GatherPress/gatherpress/releases/download/0.36.0/gatherpress.0.36.0.zip"
+      },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+        "step": "installPlugin",
+        "pluginData": {
+            "resource": "url",
+            "url": "https://github.com/GatherPress/gatherpress-alpha/releases/download/0.36.0/gatherpress-alpha.0.36.0.zip"
+        },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+          "resource": "url",
+          "url": "https://github.com/carstingaxion/gatherpress-export-import/releases/latest/download/gatherpress-export-import.zip"
+      },
+      "options": {
+          "activate": true
+      }
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/GatherPress/gatherpress-demo-data/main/GatherPress-demo-data-0.36.0.xml"
+      }
+    }
+  ]
+}
