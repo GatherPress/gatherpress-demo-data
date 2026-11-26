@@ -3108,7 +3108,23 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://gatherpress.test/venue/muzeum-miasta-gdyni/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"patternPicked":true} /-->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:gatherpress/venue -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:icon {"icon":"core/map-marker","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
+<!-- /wp:group -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-phone","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-phone"><!-- wp:icon {"icon":"core/mobile","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue phone…","fieldType":"phone"} /--></div>
+<!-- /wp:group -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-website"><!-- wp:icon {"icon":"core/external","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- wp:gatherpress/venue-map /-->
+<!-- /wp:gatherpress/venue -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-19 12:00:00]]></wp:post_date>
@@ -3714,7 +3730,23 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://gatherpress.test/venue/phoenix-convention-center/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"patternPicked":true} /-->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:gatherpress/venue -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:icon {"icon":"core/map-marker","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
+<!-- /wp:group -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-phone","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-phone"><!-- wp:icon {"icon":"core/mobile","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue phone…","fieldType":"phone"} /--></div>
+<!-- /wp:group -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-website"><!-- wp:icon {"icon":"core/external","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- wp:gatherpress/venue-map /-->
+<!-- /wp:gatherpress/venue -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>185</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:44:32]]></wp:post_date>
@@ -3778,7 +3810,23 @@ Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">G
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://gatherpress.test/venue/fycma-trade-fair-and-congress-center-of-malaga/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gatherpress/venue {"patternPicked":true} /-->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:gatherpress/venue -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-address","style":{"spacing":{"blockGap":"var:preset|spacing|20","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group gatherpress--has-venue-address" style="margin-top:0;margin-bottom:0"><!-- wp:icon {"icon":"core/map-marker","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue address…","fieldType":"address"} /--></div>
+<!-- /wp:group -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-phone","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-phone"><!-- wp:icon {"icon":"core/mobile","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue phone…","fieldType":"phone"} /--></div>
+<!-- /wp:group -->
+<!-- wp:group {"className":"gatherpress\u002d\u002dhas-venue-website","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group gatherpress--has-venue-website"><!-- wp:icon {"icon":"core/external","style":{"dimensions":{"width":"24px"}}} /-->
+<!-- wp:gatherpress/venue-detail {"placeholder":"Venue website URL…","fieldType":"url"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- wp:gatherpress/venue-map /-->
+<!-- /wp:gatherpress/venue -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-29 12:48:45]]></wp:post_date>
