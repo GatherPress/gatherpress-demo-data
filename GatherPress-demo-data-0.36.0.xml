@@ -280,16 +280,16 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -624,16 +624,16 @@
 	<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:icon {"icon":"core/people","style":{"dimensions":{"width":"24px"}}} /-->
 
 	<!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-	<div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+	<div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
-	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item -->
 
-	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+	<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
+	<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 	<!-- /wp:gatherpress/dropdown-item --></div></div>
 	<!-- /wp:gatherpress/dropdown --></div>
 	<!-- /wp:group -->
@@ -937,16 +937,16 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1139,16 +1139,16 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1392,16 +1392,16 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu">
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 	
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 </div></div>
 <!-- /wp:gatherpress/dropdown --></div>
@@ -1628,15 +1628,15 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-2aa86207-a5e3-475b-86a1-33ceaf3139ef","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2015,16 +2015,16 @@
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--30)"><!-- wp:icon {"icon":"core/people","style":{"dimensions":{"width":"24px"}}} /-->
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-7968ad05-cf12-41ae-8392-7fb01e166188","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
-<div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002drsvp-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
-<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002drsvp-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2274,15 +2274,15 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-111c6ad4-9412-4068-8ee2-0e1be9cfca7d","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
@@ -2985,15 +2985,15 @@
 
 <!-- wp:gatherpress/dropdown {"actAsSelect":true,"dropdownId":"dropdown-2aa86207-a5e3-475b-86a1-33ceaf3139ef","label":"Attending (%d)","metadata":{"name":"Attending (%d)"}} -->
 <div class="wp-block-gatherpress-dropdown"><a href="#" class="wp-block-gatherpress-dropdown__trigger">Attending (%d)</a><div class="wp-block-gatherpress-dropdown__menu"><!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eAttending (%d)\u003c/a\u003e","metadata":{"name":"Attending (%d)"},"className":"gatherpress\u002d\u002dis-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="">Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-attending"><a href="#">Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eWaiting List (%d)\u003c/a\u003e","metadata":{"name":"Waiting List (%d)"},"className":"gatherpress\u002d\u002dis-waiting-list"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="">Waiting List (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-waiting-list"><a href="#">Waiting List (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item -->
 
 <!-- wp:gatherpress/dropdown-item {"text":"\u003ca href=\u0022#\u0022\u003eNot Attending (%d)\u003c/a\u003e","metadata":{"name":"Not Attending (%d)"},"className":"gatherpress\u002d\u002dis-not-attending"} -->
-<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="">Not Attending (%d)</a></div>
+<div class="wp-block-gatherpress-dropdown-item gatherpress--is-not-attending"><a href="#">Not Attending (%d)</a></div>
 <!-- /wp:gatherpress/dropdown-item --></div></div>
 <!-- /wp:gatherpress/dropdown --></div>
 <!-- /wp:group -->
